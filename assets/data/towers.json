@@ -1,0 +1,9274 @@
+[
+  {
+    "name": "Sandy Heath",
+    "lat": 52.130144,
+    "lng": -0.24146173,
+    "height": 292,
+    "power": 180,
+    "coverage": 93.6
+  },
+  {
+    "name": "Dallington Park",
+    "lat": 52.244266,
+    "lng": -0.91511363,
+    "height": 106,
+    "power": 0.05,
+    "coverage": 6.1
+  },
+  {
+    "name": "Kimpton",
+    "lat": 51.846485,
+    "lng": -0.29856094,
+    "height": 130,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Luton",
+    "lat": 51.87773,
+    "lng": -0.43103893,
+    "height": 209,
+    "power": 0.08,
+    "coverage": 7.1
+  },
+  {
+    "name": "Sudbury",
+    "lat": 52.004251,
+    "lng": 0.78459271,
+    "height": 229,
+    "power": 100,
+    "coverage": 77
+  },
+  {
+    "name": "Burnham on Crouch",
+    "lat": 51.634895,
+    "lng": 0.803236,
+    "height": 43,
+    "power": 0.5,
+    "coverage": 13.2
+  },
+  {
+    "name": "Clacton",
+    "lat": 51.803049,
+    "lng": 1.1654594,
+    "height": 47,
+    "power": 0.48,
+    "coverage": 13
+  },
+  {
+    "name": "Felixstowe",
+    "lat": 51.962156,
+    "lng": 1.3537083,
+    "height": 52,
+    "power": 0.4,
+    "coverage": 12.2
+  },
+  {
+    "name": "Ipswich Stoke",
+    "lat": 52.055782,
+    "lng": 1.1487296,
+    "height": 46,
+    "power": 0.028,
+    "coverage": 5
+  },
+  {
+    "name": "Rouncefall",
+    "lat": 51.606945,
+    "lng": 0.67917468,
+    "height": 79,
+    "power": 4,
+    "coverage": 26.3
+  },
+  {
+    "name": "Somersham",
+    "lat": 52.102056,
+    "lng": 1.0443546,
+    "height": 54,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Wivenhoe Park",
+    "lat": 51.877713,
+    "lng": 0.94343258,
+    "height": 57,
+    "power": 0.02,
+    "coverage": 4.5
+  },
+  {
+    "name": "Woodbridge",
+    "lat": 52.100135,
+    "lng": 1.3154238,
+    "height": 58,
+    "power": 0.2,
+    "coverage": 9.7
+  },
+  {
+    "name": "Tacolneston",
+    "lat": 52.517696,
+    "lng": 1.1386294,
+    "height": 263,
+    "power": 100,
+    "coverage": 77
+  },
+  {
+    "name": "Aldeburgh",
+    "lat": 52.180568,
+    "lng": 1.5701444,
+    "height": 87,
+    "power": 10,
+    "coverage": 35.7
+  },
+  {
+    "name": "Bramford",
+    "lat": 52.070438,
+    "lng": 1.0877356,
+    "height": 49,
+    "power": 0.004,
+    "coverage": 2.6
+  },
+  {
+    "name": "Burnham",
+    "lat": 52.952972,
+    "lng": 0.67142775,
+    "height": 101,
+    "power": 0.4,
+    "coverage": 12.2
+  },
+  {
+    "name": "Bury St Edmunds",
+    "lat": 52.252774,
+    "lng": 0.72496866,
+    "height": 90,
+    "power": 0.017,
+    "coverage": 4.3
+  },
+  {
+    "name": "Creake",
+    "lat": 52.898829,
+    "lng": 0.74289185,
+    "height": 89,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Gorleston On Sea",
+    "lat": 52.583424,
+    "lng": 1.7193353,
+    "height": 29,
+    "power": 0.004,
+    "coverage": 2.6
+  },
+  {
+    "name": "Great Yarmouth",
+    "lat": 52.60301,
+    "lng": 1.7229168,
+    "height": 52,
+    "power": 0.4,
+    "coverage": 12.2
+  },
+  {
+    "name": "Kings Lynn",
+    "lat": 52.825308,
+    "lng": 0.48842012,
+    "height": 100,
+    "power": 0.6,
+    "coverage": 14
+  },
+  {
+    "name": "Linnet Valley",
+    "lat": 52.240451,
+    "lng": 0.67396818,
+    "height": 76,
+    "power": 0.0032,
+    "coverage": 2.4
+  },
+  {
+    "name": "Little Walsingham",
+    "lat": 52.891773,
+    "lng": 0.86272889,
+    "height": 80,
+    "power": 0.011,
+    "coverage": 3.7
+  },
+  {
+    "name": "Lowestoft",
+    "lat": 52.482969,
+    "lng": 1.7444379,
+    "height": 55,
+    "power": 0.4,
+    "coverage": 12.2
+  },
+  {
+    "name": "Norwich Central",
+    "lat": 52.640244,
+    "lng": 1.3049992,
+    "height": 53,
+    "power": 0.02,
+    "coverage": 4.5
+  },
+  {
+    "name": "Overstrand",
+    "lat": 52.918662,
+    "lng": 1.3218643,
+    "height": 89,
+    "power": 0.063,
+    "coverage": 6.6
+  },
+  {
+    "name": "Thetford",
+    "lat": 52.422525,
+    "lng": 0.74190121,
+    "height": 62,
+    "power": 0.008,
+    "coverage": 3.3
+  },
+  {
+    "name": "Wells Next The Sea",
+    "lat": 52.941967,
+    "lng": 0.95386874,
+    "height": 69,
+    "power": 1,
+    "coverage": 16.6
+  },
+  {
+    "name": "West Runton",
+    "lat": 52.924217,
+    "lng": 1.2511585,
+    "height": 140,
+    "power": 2,
+    "coverage": 20.9
+  },
+  {
+    "name": "Caldbeck",
+    "lat": 54.773319,
+    "lng": -3.0904517,
+    "height": 620,
+    "power": 100,
+    "coverage": 77
+  },
+  {
+    "name": "Ainstable",
+    "lat": 54.812218,
+    "lng": -2.7186747,
+    "height": 235,
+    "power": 0.02,
+    "coverage": 4.5
+  },
+  {
+    "name": "Bassenthwaite",
+    "lat": 54.663667,
+    "lng": -3.2320078,
+    "height": 142,
+    "power": 0.032,
+    "coverage": 5.3
+  },
+  {
+    "name": "Bleach Green HP",
+    "lat": 54.564096,
+    "lng": -3.57236,
+    "height": 151,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Bleach Green VP",
+    "lat": 54.564096,
+    "lng": -3.57236,
+    "height": 151,
+    "power": 0.02,
+    "coverage": 4.5
+  },
+  {
+    "name": "Crosby Ravensworth",
+    "lat": 54.531083,
+    "lng": -2.5905664,
+    "height": 227,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Dentdale",
+    "lat": 54.264252,
+    "lng": -2.4192457,
+    "height": 290,
+    "power": 0.0104,
+    "coverage": 3.6
+  },
+  {
+    "name": "Eskdale Green",
+    "lat": 54.385689,
+    "lng": -3.3328443,
+    "height": 77,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Glenridding",
+    "lat": 54.547059,
+    "lng": -2.9356881,
+    "height": 175,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Glenridding Link",
+    "lat": 54.556203,
+    "lng": -2.9501232,
+    "height": 204,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Gosforth",
+    "lat": 54.397734,
+    "lng": -3.434746,
+    "height": 90,
+    "power": 0.1,
+    "coverage": 7.7
+  },
+  {
+    "name": "Greystoke",
+    "lat": 54.661626,
+    "lng": -2.8530553,
+    "height": 230,
+    "power": 0.0023,
+    "coverage": 2.2
+  },
+  {
+    "name": "Haltwhistle",
+    "lat": 54.958676,
+    "lng": -2.5098399,
+    "height": 240,
+    "power": 0.4,
+    "coverage": 12.2
+  },
+  {
+    "name": "Keswick",
+    "lat": 54.59162,
+    "lng": -3.117627,
+    "height": 233,
+    "power": 0.024,
+    "coverage": 4.8
+  },
+  {
+    "name": "Kirkby Stephen",
+    "lat": 54.469124,
+    "lng": -2.3452724,
+    "height": 208,
+    "power": 0.0024,
+    "coverage": 2.2
+  },
+  {
+    "name": "Lorton",
+    "lat": 54.638308,
+    "lng": -3.3104173,
+    "height": 228,
+    "power": 0.01,
+    "coverage": 3.6
+  },
+  {
+    "name": "Lowther Valley",
+    "lat": 54.572207,
+    "lng": -2.7438344,
+    "height": 259,
+    "power": 0.0052,
+    "coverage": 2.9
+  },
+  {
+    "name": "Orton",
+    "lat": 54.458197,
+    "lng": -2.5907502,
+    "height": 272,
+    "power": 0.0062,
+    "coverage": 3
+  },
+  {
+    "name": "Pooley Bridge",
+    "lat": 54.603778,
+    "lng": -2.8097378,
+    "height": 232,
+    "power": 0.0026,
+    "coverage": 2.3
+  },
+  {
+    "name": "Ravenstonedale",
+    "lat": 54.437999,
+    "lng": -2.4120769,
+    "height": 358,
+    "power": 0.0022,
+    "coverage": 2.2
+  },
+  {
+    "name": "St Bees",
+    "lat": 54.488467,
+    "lng": -3.5960095,
+    "height": 34,
+    "power": 0.05,
+    "coverage": 6.1
+  },
+  {
+    "name": "Threlkeld",
+    "lat": 54.621307,
+    "lng": -3.0645439,
+    "height": 256,
+    "power": 0.0022,
+    "coverage": 2.2
+  },
+  {
+    "name": "Whitehaven",
+    "lat": 54.496696,
+    "lng": -3.5577266,
+    "height": 180,
+    "power": 2,
+    "coverage": 20.9
+  },
+  {
+    "name": "Workington",
+    "lat": 54.63513,
+    "lng": -3.5490707,
+    "height": 56,
+    "power": 0.04,
+    "coverage": 5.7
+  },
+  {
+    "name": "Caldbeck Scotland",
+    "lat": 54.773319,
+    "lng": -3.0904517,
+    "height": 490,
+    "power": 50,
+    "coverage": 61.1
+  },
+  {
+    "name": "Ballantrae",
+    "lat": 55.101984,
+    "lng": -4.9961439,
+    "height": 89,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Barskeoch Hill",
+    "lat": 54.93494,
+    "lng": -3.8579346,
+    "height": 228,
+    "power": 0.4,
+    "coverage": 12.2
+  },
+  {
+    "name": "Cambret Hill",
+    "lat": 54.89372,
+    "lng": -4.3020394,
+    "height": 409,
+    "power": 2.8,
+    "coverage": 23.4
+  },
+  {
+    "name": "Creetown",
+    "lat": 54.873507,
+    "lng": -4.4439822,
+    "height": 71,
+    "power": 0.0128,
+    "coverage": 3.9
+  },
+  {
+    "name": "Dumfries South",
+    "lat": 55.05104,
+    "lng": -3.6137744,
+    "height": 41,
+    "power": 0.02,
+    "coverage": 4.5
+  },
+  {
+    "name": "Glenluce",
+    "lat": 54.87495,
+    "lng": -4.8015326,
+    "height": 135,
+    "power": 0.006,
+    "coverage": 3
+  },
+  {
+    "name": "Kirkcudbright",
+    "lat": 54.833397,
+    "lng": -4.0466558,
+    "height": 66,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Langholm",
+    "lat": 55.138082,
+    "lng": -3.0081366,
+    "height": 308,
+    "power": 0.004,
+    "coverage": 2.6
+  },
+  {
+    "name": "Minnigaff",
+    "lat": 54.964082,
+    "lng": -4.4899453,
+    "height": 66,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Moffat",
+    "lat": 55.330917,
+    "lng": -3.4548789,
+    "height": 167,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "New Galloway",
+    "lat": 55.084268,
+    "lng": -4.1705444,
+    "height": 196,
+    "power": 0.02,
+    "coverage": 4.5
+  },
+  {
+    "name": "Pinwherry",
+    "lat": 55.149755,
+    "lng": -4.8524806,
+    "height": 186,
+    "power": 0.0112,
+    "coverage": 3.7
+  },
+  {
+    "name": "Portpatrick",
+    "lat": 54.845823,
+    "lng": -5.1044042,
+    "height": 111,
+    "power": 0.06,
+    "coverage": 6.5
+  },
+  {
+    "name": "Stranraer",
+    "lat": 54.928096,
+    "lng": -4.9490052,
+    "height": 237,
+    "power": 0.05,
+    "coverage": 6.1
+  },
+  {
+    "name": "Thornhill",
+    "lat": 55.183175,
+    "lng": -3.7983207,
+    "height": 374,
+    "power": 0.1,
+    "coverage": 7.7
+  },
+  {
+    "name": "Kendal",
+    "lat": 54.314577,
+    "lng": -2.7082814,
+    "height": 223,
+    "power": 0.4,
+    "coverage": 12.2
+  },
+  {
+    "name": "Coniston",
+    "lat": 54.361101,
+    "lng": -3.0359495,
+    "height": 306,
+    "power": 0.018,
+    "coverage": 4.3
+  },
+  {
+    "name": "Crosthwaite",
+    "lat": 54.303304,
+    "lng": -2.8657591,
+    "height": 94,
+    "power": 0.004,
+    "coverage": 2.6
+  },
+  {
+    "name": "Grasmere",
+    "lat": 54.441941,
+    "lng": -3.0204108,
+    "height": 222,
+    "power": 0.004,
+    "coverage": 2.6
+  },
+  {
+    "name": "Hawkshead",
+    "lat": 54.354641,
+    "lng": -3.0134757,
+    "height": 281,
+    "power": 0.0122,
+    "coverage": 3.8
+  },
+  {
+    "name": "Kendal Fell",
+    "lat": 54.330192,
+    "lng": -2.7565277,
+    "height": 158,
+    "power": 0.0032,
+    "coverage": 2.4
+  },
+  {
+    "name": "Millthrop",
+    "lat": 54.328272,
+    "lng": -2.5259954,
+    "height": 225,
+    "power": 0.003,
+    "coverage": 2.4
+  },
+  {
+    "name": "Sedbergh",
+    "lat": 54.285846,
+    "lng": -2.6039484,
+    "height": 261,
+    "power": 0.1,
+    "coverage": 7.7
+  },
+  {
+    "name": "Windermere",
+    "lat": 54.37438,
+    "lng": -2.9513069,
+    "height": 252,
+    "power": 0.1,
+    "coverage": 7.7
+  },
+  {
+    "name": "Selkirk",
+    "lat": 55.555809,
+    "lng": -2.7932213,
+    "height": 522,
+    "power": 10,
+    "coverage": 35.7
+  },
+  {
+    "name": "Bonchester Bridge",
+    "lat": 55.395361,
+    "lng": -2.6498045,
+    "height": 202,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Clovenfords",
+    "lat": 55.607128,
+    "lng": -2.8836243,
+    "height": 173,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Eyemouth",
+    "lat": 55.832304,
+    "lng": -2.085863,
+    "height": 238,
+    "power": 0.4,
+    "coverage": 12.2
+  },
+  {
+    "name": "Galashiels",
+    "lat": 55.615172,
+    "lng": -2.7842587,
+    "height": 295,
+    "power": 0.02,
+    "coverage": 4.5
+  },
+  {
+    "name": "Hawick",
+    "lat": 55.42401,
+    "lng": -2.7758827,
+    "height": 199,
+    "power": 0.01,
+    "coverage": 3.6
+  },
+  {
+    "name": "Innerleithen",
+    "lat": 55.620268,
+    "lng": -3.0725618,
+    "height": 266,
+    "power": 0.016,
+    "coverage": 4.2
+  },
+  {
+    "name": "Jedburgh",
+    "lat": 55.494209,
+    "lng": -2.5376306,
+    "height": 159,
+    "power": 0.032,
+    "coverage": 5.3
+  },
+  {
+    "name": "Lauder",
+    "lat": 55.743377,
+    "lng": -2.7869882,
+    "height": 276,
+    "power": 0.0022,
+    "coverage": 2.2
+  },
+  {
+    "name": "Peebles",
+    "lat": 55.661855,
+    "lng": -3.2277323,
+    "height": 400,
+    "power": 0.02,
+    "coverage": 4.5
+  },
+  {
+    "name": "Stow",
+    "lat": 55.69163,
+    "lng": -2.8783713,
+    "height": 301,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Yetholm",
+    "lat": 55.548667,
+    "lng": -2.2600591,
+    "height": 228,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Brierley Hill",
+    "lat": 52.468272,
+    "lng": -2.1250777,
+    "height": 179,
+    "power": 2,
+    "coverage": 20.9
+  },
+  {
+    "name": "Haden Hill",
+    "lat": 52.459608,
+    "lng": -2.0486704,
+    "height": 127,
+    "power": 0.032,
+    "coverage": 5.3
+  },
+  {
+    "name": "Bromsgrove",
+    "lat": 52.355127,
+    "lng": -2.0782137,
+    "height": 201,
+    "power": 0.4,
+    "coverage": 12.2
+  },
+  {
+    "name": "Lark Stoke",
+    "lat": 52.081624,
+    "lng": -1.7285306,
+    "height": 281,
+    "power": 1.26,
+    "coverage": 17.9
+  },
+  {
+    "name": "Fenton",
+    "lat": 53.003127,
+    "lng": -2.1461423,
+    "height": 252,
+    "power": 2,
+    "coverage": 20.9
+  },
+  {
+    "name": "Malvern",
+    "lat": 52.115727,
+    "lng": -2.3301465,
+    "height": 204,
+    "power": 0.4,
+    "coverage": 12.2
+  },
+  {
+    "name": "Nottingham",
+    "lat": 52.98684,
+    "lng": -1.2514361,
+    "height": 180,
+    "power": 0.4,
+    "coverage": 12.2
+  },
+  {
+    "name": "Ridge Hill",
+    "lat": 51.997445,
+    "lng": -2.5398903,
+    "height": 364,
+    "power": 20,
+    "coverage": 45
+  },
+  {
+    "name": "Andoversford",
+    "lat": 51.864001,
+    "lng": -1.997194,
+    "height": 317,
+    "power": 0.0112,
+    "coverage": 3.7
+  },
+  {
+    "name": "Eardiston",
+    "lat": 52.311927,
+    "lng": -2.4325236,
+    "height": 121,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Ewyas Harold",
+    "lat": 51.937696,
+    "lng": -2.8887174,
+    "height": 143,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Garth Hill HP",
+    "lat": 52.347352,
+    "lng": -3.0686744,
+    "height": 372,
+    "power": 0.0074,
+    "coverage": 3.2
+  },
+  {
+    "name": "Garth Hill VP",
+    "lat": 52.347352,
+    "lng": -3.0686744,
+    "height": 374,
+    "power": 0.005,
+    "coverage": 2.8
+  },
+  {
+    "name": "Hazler Hill",
+    "lat": 52.531141,
+    "lng": -2.7908282,
+    "height": 359,
+    "power": 0.005,
+    "coverage": 2.8
+  },
+  {
+    "name": "Hereford",
+    "lat": 52.024865,
+    "lng": -2.6945632,
+    "height": 180,
+    "power": 0.007,
+    "coverage": 3.2
+  },
+  {
+    "name": "Hope Under Dinmore",
+    "lat": 52.168621,
+    "lng": -2.7253121,
+    "height": 109,
+    "power": 0.004,
+    "coverage": 2.6
+  },
+  {
+    "name": "Kington",
+    "lat": 52.191264,
+    "lng": -3.0396181,
+    "height": 276,
+    "power": 0.02,
+    "coverage": 4.5
+  },
+  {
+    "name": "Knucklas",
+    "lat": 52.365828,
+    "lng": -3.0735264,
+    "height": 280,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Ludlow",
+    "lat": 52.362735,
+    "lng": -2.738327,
+    "height": 241,
+    "power": 0.005,
+    "coverage": 2.8
+  },
+  {
+    "name": "New Radnor",
+    "lat": 52.254184,
+    "lng": -3.0714141,
+    "height": 270,
+    "power": 0.025,
+    "coverage": 4.8
+  },
+  {
+    "name": "Oakeley Mynd",
+    "lat": 52.482027,
+    "lng": -2.9642935,
+    "height": 337,
+    "power": 0.01,
+    "coverage": 3.6
+  },
+  {
+    "name": "Peterchurch",
+    "lat": 52.037151,
+    "lng": -2.9332584,
+    "height": 259,
+    "power": 0.0152,
+    "coverage": 4.1
+  },
+  {
+    "name": "Presteigne",
+    "lat": 52.289563,
+    "lng": -2.9727164,
+    "height": 308,
+    "power": 0.0032,
+    "coverage": 2.4
+  },
+  {
+    "name": "Ross On Wye",
+    "lat": 51.91591,
+    "lng": -2.5752589,
+    "height": 60,
+    "power": 0.004,
+    "coverage": 2.6
+  },
+  {
+    "name": "St Briavels",
+    "lat": 51.741227,
+    "lng": -2.6421204,
+    "height": 198,
+    "power": 0.0048,
+    "coverage": 2.8
+  },
+  {
+    "name": "Upper Soudley",
+    "lat": 51.788799,
+    "lng": -2.4911455,
+    "height": 156,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Worcester",
+    "lat": 52.200631,
+    "lng": -2.1936773,
+    "height": 110,
+    "power": 0.05,
+    "coverage": 6.1
+  },
+  {
+    "name": "Sutton Coldfield",
+    "lat": 52.600553,
+    "lng": -1.8338563,
+    "height": 433,
+    "power": 200,
+    "coverage": 97
+  },
+  {
+    "name": "Allesley Park",
+    "lat": 52.414051,
+    "lng": -1.5658011,
+    "height": 152,
+    "power": 0.0066,
+    "coverage": 3.1
+  },
+  {
+    "name": "Birmingham Newtown Drive",
+    "lat": 52.494736,
+    "lng": -1.912024,
+    "height": 160,
+    "power": 0.0026,
+    "coverage": 2.3
+  },
+  {
+    "name": "Brailes",
+    "lat": 52.038675,
+    "lng": -1.535185,
+    "height": 221,
+    "power": 0.008,
+    "coverage": 3.3
+  },
+  {
+    "name": "Bretch Hill",
+    "lat": 52.056745,
+    "lng": -1.361877,
+    "height": 196,
+    "power": 0.087,
+    "coverage": 7.3
+  },
+  {
+    "name": "Bridgnorth",
+    "lat": 52.519749,
+    "lng": -2.4155516,
+    "height": 91,
+    "power": 0.0032,
+    "coverage": 2.4
+  },
+  {
+    "name": "Cheadle",
+    "lat": 52.988917,
+    "lng": -1.9561629,
+    "height": 263,
+    "power": 0.0048,
+    "coverage": 2.8
+  },
+  {
+    "name": "Earl Sterndale",
+    "lat": 53.197125,
+    "lng": -1.8659904,
+    "height": 380,
+    "power": 0.04,
+    "coverage": 5.7
+  },
+  {
+    "name": "Edgbaston",
+    "lat": 52.464532,
+    "lng": -1.915175,
+    "height": 197,
+    "power": 0.004,
+    "coverage": 2.6
+  },
+  {
+    "name": "Gravelly Hill",
+    "lat": 52.506888,
+    "lng": -1.8402497,
+    "height": 118,
+    "power": 0.016,
+    "coverage": 4.2
+  },
+  {
+    "name": "Hamstead",
+    "lat": 52.536375,
+    "lng": -1.9364144,
+    "height": 144,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Harborne",
+    "lat": 52.450985,
+    "lng": -1.9765601,
+    "height": 195,
+    "power": 0.04,
+    "coverage": 5.7
+  },
+  {
+    "name": "Hartington",
+    "lat": 53.138375,
+    "lng": -1.8255137,
+    "height": 281,
+    "power": 0.0066,
+    "coverage": 3.1
+  },
+  {
+    "name": "Ipstones Edge",
+    "lat": 53.053181,
+    "lng": -1.9371513,
+    "height": 401,
+    "power": 0.0056,
+    "coverage": 2.9
+  },
+  {
+    "name": "Ironbridge",
+    "lat": 52.625961,
+    "lng": -2.476241,
+    "height": 75,
+    "power": 0.0022,
+    "coverage": 2.2
+  },
+  {
+    "name": "Kenilworth",
+    "lat": 52.351201,
+    "lng": -1.5633337,
+    "height": 108,
+    "power": 0.01,
+    "coverage": 3.6
+  },
+  {
+    "name": "Kidderminster",
+    "lat": 52.363265,
+    "lng": -2.2827941,
+    "height": 133,
+    "power": 0.4,
+    "coverage": 12.2
+  },
+  {
+    "name": "Kinver",
+    "lat": 52.446478,
+    "lng": -2.213882,
+    "height": 88,
+    "power": 0.0048,
+    "coverage": 2.8
+  },
+  {
+    "name": "Leamington Spa",
+    "lat": 52.2943,
+    "lng": -1.5190257,
+    "height": 133,
+    "power": 0.04,
+    "coverage": 5.7
+  },
+  {
+    "name": "Leek",
+    "lat": 53.102457,
+    "lng": -2.0020504,
+    "height": 309,
+    "power": 0.2,
+    "coverage": 9.7
+  },
+  {
+    "name": "Long Compton",
+    "lat": 52.002181,
+    "lng": -1.5855274,
+    "height": 168,
+    "power": 0.004,
+    "coverage": 2.6
+  },
+  {
+    "name": "Oakamoor",
+    "lat": 52.998784,
+    "lng": -1.91637,
+    "height": 189,
+    "power": 0.0022,
+    "coverage": 2.2
+  },
+  {
+    "name": "Perry Beeches",
+    "lat": 52.537073,
+    "lng": -1.9041258,
+    "height": 123,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Queslett",
+    "lat": 52.55119,
+    "lng": -1.9077821,
+    "height": 152,
+    "power": 0.0026,
+    "coverage": 2.3
+  },
+  {
+    "name": "Redditch",
+    "lat": 52.313252,
+    "lng": -1.9600565,
+    "height": 138,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Repton",
+    "lat": 52.83164,
+    "lng": -1.5448791,
+    "height": 84,
+    "power": 0.008,
+    "coverage": 3.3
+  },
+  {
+    "name": "Rugeley",
+    "lat": 52.758607,
+    "lng": -1.949725,
+    "height": 110,
+    "power": 0.008,
+    "coverage": 3.3
+  },
+  {
+    "name": "Tenbury Wells",
+    "lat": 52.319081,
+    "lng": -2.6048284,
+    "height": 127,
+    "power": 0.0028,
+    "coverage": 2.3
+  },
+  {
+    "name": "Turves Green",
+    "lat": 52.403696,
+    "lng": -1.9685006,
+    "height": 193,
+    "power": 0.0024,
+    "coverage": 2.2
+  },
+  {
+    "name": "Whittingslow",
+    "lat": 52.492401,
+    "lng": -2.8419776,
+    "height": 283,
+    "power": 0.0112,
+    "coverage": 3.7
+  },
+  {
+    "name": "Winchcombe",
+    "lat": 51.957404,
+    "lng": -1.9478564,
+    "height": 168,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Winshill",
+    "lat": 52.814209,
+    "lng": -1.5971385,
+    "height": 85,
+    "power": 0.06,
+    "coverage": 6.5
+  },
+  {
+    "name": "Woodford Halse",
+    "lat": 52.173346,
+    "lng": -1.211788,
+    "height": 158,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "The Wrekin",
+    "lat": 52.67086,
+    "lng": -2.5500794,
+    "height": 455,
+    "power": 20,
+    "coverage": 45
+  },
+  {
+    "name": "Bucknell",
+    "lat": 52.35489,
+    "lng": -2.9436098,
+    "height": 200,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Clun",
+    "lat": 52.41318,
+    "lng": -2.9945478,
+    "height": 450,
+    "power": 0.0112,
+    "coverage": 3.7
+  },
+  {
+    "name": "Coalbrookdale",
+    "lat": 52.634817,
+    "lng": -2.4869761,
+    "height": 123,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Halesowen",
+    "lat": 52.44136,
+    "lng": -2.0440897,
+    "height": 165,
+    "power": 0.005,
+    "coverage": 2.8
+  },
+  {
+    "name": "Waltham",
+    "lat": 52.801465,
+    "lng": -0.80088009,
+    "height": 442,
+    "power": 50,
+    "coverage": 61.1
+  },
+  {
+    "name": "Ambergate",
+    "lat": 53.058159,
+    "lng": -1.4763988,
+    "height": 185,
+    "power": 0.037,
+    "coverage": 5.5
+  },
+  {
+    "name": "Ashbourne",
+    "lat": 53.011272,
+    "lng": -1.7303404,
+    "height": 208,
+    "power": 0.05,
+    "coverage": 6.1
+  },
+  {
+    "name": "Ashford In The Water",
+    "lat": 53.2188,
+    "lng": -1.7178079,
+    "height": 266,
+    "power": 0.0028,
+    "coverage": 2.3
+  },
+  {
+    "name": "Belper",
+    "lat": 53.012501,
+    "lng": -1.4990105,
+    "height": 221,
+    "power": 0.006,
+    "coverage": 3
+  },
+  {
+    "name": "Birchover",
+    "lat": 53.151264,
+    "lng": -1.6403466,
+    "height": 282,
+    "power": 0.005,
+    "coverage": 2.8
+  },
+  {
+    "name": "Bolehill",
+    "lat": 53.094369,
+    "lng": -1.5615263,
+    "height": 367,
+    "power": 0.1,
+    "coverage": 7.7
+  },
+  {
+    "name": "Darley Dale",
+    "lat": 53.174381,
+    "lng": -1.5892866,
+    "height": 302,
+    "power": 0.0032,
+    "coverage": 2.4
+  },
+  {
+    "name": "Derby",
+    "lat": 52.904232,
+    "lng": -1.5117077,
+    "height": 131,
+    "power": 0.04,
+    "coverage": 5.7
+  },
+  {
+    "name": "Eastwood",
+    "lat": 53.018298,
+    "lng": -1.3102219,
+    "height": 115,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Leicester",
+    "lat": 52.624319,
+    "lng": -1.1372354,
+    "height": 85,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Little Eaton",
+    "lat": 52.973442,
+    "lng": -1.4480866,
+    "height": 159,
+    "power": 0.004,
+    "coverage": 2.6
+  },
+  {
+    "name": "Matlock",
+    "lat": 53.126623,
+    "lng": -1.5568644,
+    "height": 230,
+    "power": 0.0034,
+    "coverage": 2.5
+  },
+  {
+    "name": "Parwich",
+    "lat": 53.084791,
+    "lng": -1.7248055,
+    "height": 230,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Stamford",
+    "lat": 52.648493,
+    "lng": -0.47573154,
+    "height": 46,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Stanton Moor",
+    "lat": 53.170032,
+    "lng": -1.6340565,
+    "height": 352,
+    "power": 0.4,
+    "coverage": 12.2
+  },
+  {
+    "name": "Fremont Point",
+    "lat": 49.252564,
+    "lng": -2.1277341,
+    "height": 245,
+    "power": 3.2,
+    "coverage": 24.4
+  },
+  {
+    "name": "Alderney",
+    "lat": 49.718401,
+    "lng": -2.1886046,
+    "height": 97,
+    "power": 0.5,
+    "coverage": 13.2
+  },
+  {
+    "name": "Gorey",
+    "lat": 49.200462,
+    "lng": -2.0219039,
+    "height": 75,
+    "power": 0.01,
+    "coverage": 3.6
+  },
+  {
+    "name": "Les Touillets HP",
+    "lat": 49.458962,
+    "lng": -2.5794923,
+    "height": 126,
+    "power": 1.5,
+    "coverage": 19
+  },
+  {
+    "name": "Les Touillets VP",
+    "lat": 49.458962,
+    "lng": -2.5794923,
+    "height": 126,
+    "power": 3,
+    "coverage": 23.9
+  },
+  {
+    "name": "St Brelades Bay",
+    "lat": 49.185891,
+    "lng": -2.2044092,
+    "height": 58,
+    "power": 0.015,
+    "coverage": 4.1
+  },
+  {
+    "name": "St Helier",
+    "lat": 49.176124,
+    "lng": -2.1110729,
+    "height": 75,
+    "power": 0.04,
+    "coverage": 5.7
+  },
+  {
+    "name": "St Peter Port",
+    "lat": 49.45196,
+    "lng": -2.5393986,
+    "height": 78,
+    "power": 0.05,
+    "coverage": 6.1
+  },
+  {
+    "name": "Torteval",
+    "lat": 49.432387,
+    "lng": -2.6702025,
+    "height": 102,
+    "power": 0.05,
+    "coverage": 6.1
+  },
+  {
+    "name": "Douglas",
+    "lat": 54.141397,
+    "lng": -4.4922076,
+    "height": 192,
+    "power": 1,
+    "coverage": 16.6
+  },
+  {
+    "name": "Beary Peark",
+    "lat": 54.216082,
+    "lng": -4.6162003,
+    "height": 337,
+    "power": 0.2,
+    "coverage": 9.7
+  },
+  {
+    "name": "Foxdale",
+    "lat": 54.167498,
+    "lng": -4.6178815,
+    "height": 180,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Glenmaye",
+    "lat": 54.187909,
+    "lng": -4.7111489,
+    "height": 128,
+    "power": 0.01,
+    "coverage": 3.6
+  },
+  {
+    "name": "Jurby",
+    "lat": 54.36112,
+    "lng": -4.5178136,
+    "height": 62,
+    "power": 0.04,
+    "coverage": 5.7
+  },
+  {
+    "name": "Kimmeragh",
+    "lat": 54.371858,
+    "lng": -4.3875945,
+    "height": 102,
+    "power": 0.1,
+    "coverage": 7.7
+  },
+  {
+    "name": "Laxey",
+    "lat": 54.2242,
+    "lng": -4.3990058,
+    "height": 142,
+    "power": 0.02,
+    "coverage": 4.5
+  },
+  {
+    "name": "Port St Mary",
+    "lat": 54.074792,
+    "lng": -4.7435158,
+    "height": 124,
+    "power": 2,
+    "coverage": 20.9
+  },
+  {
+    "name": "Ramsey",
+    "lat": 54.312745,
+    "lng": -4.3810941,
+    "height": 136,
+    "power": 0.1,
+    "coverage": 7.7
+  },
+  {
+    "name": "Union Mills",
+    "lat": 54.161089,
+    "lng": -4.5393485,
+    "height": 159,
+    "power": 0.0025,
+    "coverage": 2.3
+  },
+  {
+    "name": "Winter Hill",
+    "lat": 53.625565,
+    "lng": -2.5147943,
+    "height": 726,
+    "power": 100,
+    "coverage": 77
+  },
+  {
+    "name": "Austwick",
+    "lat": 54.100592,
+    "lng": -2.332262,
+    "height": 237,
+    "power": 0.0063,
+    "coverage": 3.1
+  },
+  {
+    "name": "Backbarrow",
+    "lat": 54.248538,
+    "lng": -2.9867766,
+    "height": 126,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Bacup",
+    "lat": 53.698343,
+    "lng": -2.1861057,
+    "height": 381,
+    "power": 0.05,
+    "coverage": 6.1
+  },
+  {
+    "name": "Barrow Town Hall",
+    "lat": 54.111499,
+    "lng": -3.22827,
+    "height": 56,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Birch Vale",
+    "lat": 53.372204,
+    "lng": -1.9592296,
+    "height": 361,
+    "power": 0.05,
+    "coverage": 6.1
+  },
+  {
+    "name": "Blackburn",
+    "lat": 53.743834,
+    "lng": -2.4517992,
+    "height": 192,
+    "power": 0.004,
+    "coverage": 2.6
+  },
+  {
+    "name": "Bollington",
+    "lat": 53.297392,
+    "lng": -2.0890823,
+    "height": 210,
+    "power": 0.0084,
+    "coverage": 3.4
+  },
+  {
+    "name": "Brinscall",
+    "lat": 53.696002,
+    "lng": -2.5615439,
+    "height": 224,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Broadbottom",
+    "lat": 53.436567,
+    "lng": -2.0210348,
+    "height": 117,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Brook Bottom",
+    "lat": 53.523118,
+    "lng": -2.0470215,
+    "height": 277,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Burbage",
+    "lat": 53.250397,
+    "lng": -1.935515,
+    "height": 381,
+    "power": 0.0028,
+    "coverage": 2.3
+  },
+  {
+    "name": "Buxton",
+    "lat": 53.275101,
+    "lng": -1.9119345,
+    "height": 480,
+    "power": 0.2,
+    "coverage": 9.7
+  },
+  {
+    "name": "Cartmel",
+    "lat": 54.20598,
+    "lng": -2.9590847,
+    "height": 55,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Chaigley",
+    "lat": 53.896614,
+    "lng": -2.4793166,
+    "height": 194,
+    "power": 0.008,
+    "coverage": 3.3
+  },
+  {
+    "name": "Chatburn",
+    "lat": 53.896856,
+    "lng": -2.3584907,
+    "height": 97,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Chinley",
+    "lat": 53.341189,
+    "lng": -1.9488958,
+    "height": 267,
+    "power": 0.0024,
+    "coverage": 2.2
+  },
+  {
+    "name": "Congleton",
+    "lat": 53.154059,
+    "lng": -2.2033296,
+    "height": 159,
+    "power": 0.04,
+    "coverage": 5.7
+  },
+  {
+    "name": "Dalton",
+    "lat": 54.161138,
+    "lng": -3.1808837,
+    "height": 117,
+    "power": 0.005,
+    "coverage": 2.8
+  },
+  {
+    "name": "Darwen",
+    "lat": 53.696589,
+    "lng": -2.4432658,
+    "height": 312,
+    "power": 0.1,
+    "coverage": 7.7
+  },
+  {
+    "name": "Delph",
+    "lat": 53.568607,
+    "lng": -2.0206481,
+    "height": 268,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Dog Hill",
+    "lat": 53.579012,
+    "lng": -2.0742697,
+    "height": 300,
+    "power": 0.017,
+    "coverage": 4.3
+  },
+  {
+    "name": "Elton",
+    "lat": 53.25599,
+    "lng": -2.8144806,
+    "height": 25,
+    "power": 0.0126,
+    "coverage": 3.9
+  },
+  {
+    "name": "Far Highfield",
+    "lat": 54.098653,
+    "lng": -2.7003145,
+    "height": 171,
+    "power": 0.0028,
+    "coverage": 2.3
+  },
+  {
+    "name": "Glossop",
+    "lat": 53.455169,
+    "lng": -1.960506,
+    "height": 310,
+    "power": 0.05,
+    "coverage": 6.1
+  },
+  {
+    "name": "Haslingden",
+    "lat": 53.708509,
+    "lng": -2.3114377,
+    "height": 386,
+    "power": 2,
+    "coverage": 20.9
+  },
+  {
+    "name": "Haughton Green",
+    "lat": 53.429875,
+    "lng": -2.1006476,
+    "height": 107,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Ladder Hill",
+    "lat": 53.306677,
+    "lng": -1.9603421,
+    "height": 452,
+    "power": 0.2,
+    "coverage": 9.7
+  },
+  {
+    "name": "Lancaster",
+    "lat": 54.089355,
+    "lng": -2.7799629,
+    "height": 181,
+    "power": 2,
+    "coverage": 20.9
+  },
+  {
+    "name": "Langley",
+    "lat": 53.235096,
+    "lng": -2.094346,
+    "height": 248,
+    "power": 0.008,
+    "coverage": 3.3
+  },
+  {
+    "name": "Lees",
+    "lat": 53.531831,
+    "lng": -2.0603073,
+    "height": 223,
+    "power": 0.004,
+    "coverage": 2.6
+  },
+  {
+    "name": "Littleborough",
+    "lat": 53.646243,
+    "lng": -2.0763547,
+    "height": 271,
+    "power": 0.1,
+    "coverage": 7.7
+  },
+  {
+    "name": "Macclesfield",
+    "lat": 53.25018,
+    "lng": -2.1138626,
+    "height": 206,
+    "power": 0.0074,
+    "coverage": 3.2
+  },
+  {
+    "name": "Manchester Hulme",
+    "lat": 53.466039,
+    "lng": -2.2594984,
+    "height": 75,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Melling HP",
+    "lat": 54.127728,
+    "lng": -2.6096027,
+    "height": 129,
+    "power": 0.0008,
+    "coverage": 1.5
+  },
+  {
+    "name": "Melling VP",
+    "lat": 54.127728,
+    "lng": -2.6096027,
+    "height": 131,
+    "power": 0.005,
+    "coverage": 2.8
+  },
+  {
+    "name": "Middleton",
+    "lat": 53.548865,
+    "lng": -2.1883159,
+    "height": 118,
+    "power": 0.008,
+    "coverage": 3.3
+  },
+  {
+    "name": "Millom Park",
+    "lat": 54.236458,
+    "lng": -3.2861414,
+    "height": 189,
+    "power": 0.086,
+    "coverage": 7.3
+  },
+  {
+    "name": "Moss Bank",
+    "lat": 53.471483,
+    "lng": -2.7408645,
+    "height": 49,
+    "power": 0.008,
+    "coverage": 3.3
+  },
+  {
+    "name": "Mottram In Longdendale",
+    "lat": 53.462274,
+    "lng": -2.0195415,
+    "height": 235,
+    "power": 0.004,
+    "coverage": 2.6
+  },
+  {
+    "name": "Newchurch",
+    "lat": 53.69977,
+    "lng": -2.2426082,
+    "height": 280,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Norden",
+    "lat": 53.624779,
+    "lng": -2.2105775,
+    "height": 209,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "North Oldham",
+    "lat": 53.550762,
+    "lng": -2.1089343,
+    "height": 291,
+    "power": 0.032,
+    "coverage": 5.3
+  },
+  {
+    "name": "Oakenhead",
+    "lat": 53.707292,
+    "lng": -2.2950676,
+    "height": 287,
+    "power": 0.02,
+    "coverage": 4.5
+  },
+  {
+    "name": "Over Biddulph",
+    "lat": 53.141905,
+    "lng": -2.1564803,
+    "height": 241,
+    "power": 0.0044,
+    "coverage": 2.7
+  },
+  {
+    "name": "Parbold",
+    "lat": 53.59538,
+    "lng": -2.7916835,
+    "height": 38,
+    "power": 0.06,
+    "coverage": 6.5
+  },
+  {
+    "name": "Pendle Forest",
+    "lat": 53.841371,
+    "lng": -2.2663751,
+    "height": 324,
+    "power": 0.1,
+    "coverage": 7.7
+  },
+  {
+    "name": "Penny Bridge",
+    "lat": 54.244073,
+    "lng": -3.0575679,
+    "height": 131,
+    "power": 0.0062,
+    "coverage": 3
+  },
+  {
+    "name": "Portwood",
+    "lat": 53.416624,
+    "lng": -2.1385312,
+    "height": 66,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Prestbury",
+    "lat": 53.283822,
+    "lng": -2.1689983,
+    "height": 163,
+    "power": 0.004,
+    "coverage": 2.6
+  },
+  {
+    "name": "Ramsbottom",
+    "lat": 53.639242,
+    "lng": -2.2989783,
+    "height": 276,
+    "power": 0.016,
+    "coverage": 4.2
+  },
+  {
+    "name": "Ribblesdale",
+    "lat": 54.142954,
+    "lng": -2.2854535,
+    "height": 276,
+    "power": 0.006,
+    "coverage": 3
+  },
+  {
+    "name": "Romiley",
+    "lat": 53.410481,
+    "lng": -2.0703643,
+    "height": 167,
+    "power": 0.005,
+    "coverage": 2.8
+  },
+  {
+    "name": "Roose HP",
+    "lat": 54.112736,
+    "lng": -3.1946518,
+    "height": 29,
+    "power": 0.01,
+    "coverage": 3.6
+  },
+  {
+    "name": "Roose VP",
+    "lat": 54.112736,
+    "lng": -3.1946518,
+    "height": 29,
+    "power": 0.02,
+    "coverage": 4.5
+  },
+  {
+    "name": "Saddleworth",
+    "lat": 53.541552,
+    "lng": -2.0206348,
+    "height": 391,
+    "power": 0.4,
+    "coverage": 12.2
+  },
+  {
+    "name": "Skelmersdale",
+    "lat": 53.560584,
+    "lng": -2.7514792,
+    "height": 175,
+    "power": 0.1,
+    "coverage": 7.7
+  },
+  {
+    "name": "Stavely In Cartmel",
+    "lat": 54.260528,
+    "lng": -2.9486832,
+    "height": 157,
+    "power": 0.0024,
+    "coverage": 2.2
+  },
+  {
+    "name": "Stockport",
+    "lat": 53.410693,
+    "lng": -2.2004913,
+    "height": 77,
+    "power": 0.004,
+    "coverage": 2.6
+  },
+  {
+    "name": "Storeton",
+    "lat": 53.349865,
+    "lng": -3.031394,
+    "height": 109,
+    "power": 0.56,
+    "coverage": 13.7
+  },
+  {
+    "name": "Sunningdale",
+    "lat": 53.398159,
+    "lng": -3.0993387,
+    "height": 55,
+    "power": 0.12,
+    "coverage": 8.2
+  },
+  {
+    "name": "Trawden",
+    "lat": 53.836372,
+    "lng": -2.1396114,
+    "height": 315,
+    "power": 0.04,
+    "coverage": 5.7
+  },
+  {
+    "name": "Urswick",
+    "lat": 54.155604,
+    "lng": -3.130039,
+    "height": 72,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Walton Le Dale",
+    "lat": 53.756802,
+    "lng": -2.6915794,
+    "height": 75,
+    "power": 0.004,
+    "coverage": 2.6
+  },
+  {
+    "name": "Wardle",
+    "lat": 53.65123,
+    "lng": -2.1296179,
+    "height": 245,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "West Kirby",
+    "lat": 53.366947,
+    "lng": -3.167668,
+    "height": 76,
+    "power": 0.015,
+    "coverage": 4.1
+  },
+  {
+    "name": "Whaley Bridge",
+    "lat": 53.330413,
+    "lng": -1.9849453,
+    "height": 184,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Whalley",
+    "lat": 53.813007,
+    "lng": -2.4116893,
+    "height": 218,
+    "power": 0.01,
+    "coverage": 3.6
+  },
+  {
+    "name": "Whitewell",
+    "lat": 53.717364,
+    "lng": -2.253468,
+    "height": 321,
+    "power": 0.016,
+    "coverage": 4.2
+  },
+  {
+    "name": "Whitworth",
+    "lat": 53.678767,
+    "lng": -2.1740595,
+    "height": 392,
+    "power": 0.05,
+    "coverage": 6.1
+  },
+  {
+    "name": "Woodnook",
+    "lat": 53.74585,
+    "lng": -2.3611456,
+    "height": 198,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Crystal Palace",
+    "lat": 51.424171,
+    "lng": -0.074943902,
+    "height": 324,
+    "power": 200,
+    "coverage": 97
+  },
+  {
+    "name": "Alexandra Palace",
+    "lat": 51.594474,
+    "lng": -0.12954557,
+    "height": 186,
+    "power": 0.07,
+    "coverage": 6.8
+  },
+  {
+    "name": "Assendon",
+    "lat": 51.564509,
+    "lng": -0.94247352,
+    "height": 136,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Biggin Hill",
+    "lat": 51.310107,
+    "lng": 0.02315688,
+    "height": 186,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Biggin Hill Link",
+    "lat": 51.314174,
+    "lng": 0.032376198,
+    "height": 201,
+    "power": 0.001,
+    "coverage": 1.7
+  },
+  {
+    "name": "Bishops Stortford",
+    "lat": 51.871036,
+    "lng": 0.17592539,
+    "height": 109,
+    "power": 0.0144,
+    "coverage": 4
+  },
+  {
+    "name": "Cane Hill Chapel",
+    "lat": 51.312754,
+    "lng": -0.14762599,
+    "height": 157,
+    "power": 0.05,
+    "coverage": 6.1
+  },
+  {
+    "name": "Caterham",
+    "lat": 51.284614,
+    "lng": -0.075622581,
+    "height": 204,
+    "power": 0.006,
+    "coverage": 3
+  },
+  {
+    "name": "Chepping Wycombe",
+    "lat": 51.61191,
+    "lng": -0.73484873,
+    "height": 189,
+    "power": 0.02,
+    "coverage": 4.5
+  },
+  {
+    "name": "Chesham",
+    "lat": 51.697905,
+    "lng": -0.61814089,
+    "height": 175,
+    "power": 0.02,
+    "coverage": 4.5
+  },
+  {
+    "name": "Chingford",
+    "lat": 51.633291,
+    "lng": -0.007434297,
+    "height": 68,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Croydon Old Town",
+    "lat": 51.366055,
+    "lng": -0.10668837,
+    "height": 93,
+    "power": 0.0066,
+    "coverage": 3.1
+  },
+  {
+    "name": "East Grinstead",
+    "lat": 51.10655,
+    "lng": -0.021601002,
+    "height": 154,
+    "power": 0.0234,
+    "coverage": 4.7
+  },
+  {
+    "name": "Edmonton",
+    "lat": 51.623354,
+    "lng": -0.058434605,
+    "height": 94,
+    "power": 0.02,
+    "coverage": 4.5
+  },
+  {
+    "name": "Farningham",
+    "lat": 51.371989,
+    "lng": 0.22114645,
+    "height": 79,
+    "power": 0.013,
+    "coverage": 3.9
+  },
+  {
+    "name": "Finchley",
+    "lat": 51.602154,
+    "lng": -0.19507705,
+    "height": 112,
+    "power": 0.013,
+    "coverage": 3.9
+  },
+  {
+    "name": "Forest Row",
+    "lat": 51.107861,
+    "lng": 0.053598171,
+    "height": 168,
+    "power": 0.024,
+    "coverage": 4.8
+  },
+  {
+    "name": "Gravesend",
+    "lat": 51.418392,
+    "lng": 0.38146539,
+    "height": 65,
+    "power": 0.043,
+    "coverage": 5.8
+  },
+  {
+    "name": "Great Missenden",
+    "lat": 51.69677,
+    "lng": -0.69182503,
+    "height": 226,
+    "power": 0.034,
+    "coverage": 5.4
+  },
+  {
+    "name": "Greenwich",
+    "lat": 51.484333,
+    "lng": 0.026394265,
+    "height": 45,
+    "power": 0.003,
+    "coverage": 2.4
+  },
+  {
+    "name": "Hammersmith",
+    "lat": 51.492931,
+    "lng": -0.22676481,
+    "height": 57,
+    "power": 0.004,
+    "coverage": 2.6
+  },
+  {
+    "name": "Hampstead Heath",
+    "lat": 51.553156,
+    "lng": -0.16672558,
+    "height": 115,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Hemel Hempstead Town",
+    "lat": 51.747294,
+    "lng": -0.47467399,
+    "height": 154,
+    "power": 0.008,
+    "coverage": 3.3
+  },
+  {
+    "name": "Henley",
+    "lat": 51.533419,
+    "lng": -0.87701862,
+    "height": 157,
+    "power": 0.02,
+    "coverage": 4.5
+  },
+  {
+    "name": "Hertford",
+    "lat": 51.806981,
+    "lng": -0.08609276,
+    "height": 102,
+    "power": 0.5,
+    "coverage": 13.2
+  },
+  {
+    "name": "High Wycombe",
+    "lat": 51.640099,
+    "lng": -0.76441221,
+    "height": 213,
+    "power": 0.1,
+    "coverage": 7.7
+  },
+  {
+    "name": "Hughenden",
+    "lat": 51.668954,
+    "lng": -0.76362741,
+    "height": 185,
+    "power": 0.012,
+    "coverage": 3.8
+  },
+  {
+    "name": "Kenley",
+    "lat": 51.316396,
+    "lng": -0.094383348,
+    "height": 180,
+    "power": 0.028,
+    "coverage": 5
+  },
+  {
+    "name": "Kensal Town",
+    "lat": 51.523202,
+    "lng": -0.2068496,
+    "height": 131,
+    "power": 0.025,
+    "coverage": 4.8
+  },
+  {
+    "name": "Lea Bridge",
+    "lat": 51.573521,
+    "lng": -0.019862652,
+    "height": 60,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Marlow Bottom",
+    "lat": 51.589082,
+    "lng": -0.7870161,
+    "height": 121,
+    "power": 0.022,
+    "coverage": 4.6
+  },
+  {
+    "name": "Micklefield",
+    "lat": 51.631371,
+    "lng": -0.70541035,
+    "height": 157,
+    "power": 0.004,
+    "coverage": 2.6
+  },
+  {
+    "name": "Mickleham",
+    "lat": 51.271493,
+    "lng": -0.3342208,
+    "height": 131,
+    "power": 0.018,
+    "coverage": 4.3
+  },
+  {
+    "name": "New Addington",
+    "lat": 51.347582,
+    "lng": -0.022725279,
+    "height": 170,
+    "power": 0.016,
+    "coverage": 4.2
+  },
+  {
+    "name": "New Barnet",
+    "lat": 51.653066,
+    "lng": -0.17281648,
+    "height": 102,
+    "power": 0.004,
+    "coverage": 2.6
+  },
+  {
+    "name": "Old Coulsdon",
+    "lat": 51.31225,
+    "lng": -0.11607859,
+    "height": 175,
+    "power": 0.004,
+    "coverage": 2.6
+  },
+  {
+    "name": "Orpington",
+    "lat": 51.367153,
+    "lng": 0.093049071,
+    "height": 117,
+    "power": 0.006,
+    "coverage": 3
+  },
+  {
+    "name": "Otford",
+    "lat": 51.321589,
+    "lng": 0.19933453,
+    "height": 206,
+    "power": 0.0124,
+    "coverage": 3.8
+  },
+  {
+    "name": "Poplar",
+    "lat": 51.51283,
+    "lng": -0.009812971,
+    "height": 90,
+    "power": 0.004,
+    "coverage": 2.6
+  },
+  {
+    "name": "Skirmett",
+    "lat": 51.605286,
+    "lng": -0.87943443,
+    "height": 89,
+    "power": 0.0252,
+    "coverage": 4.9
+  },
+  {
+    "name": "St Albans",
+    "lat": 51.749369,
+    "lng": -0.3616084,
+    "height": 128,
+    "power": 0.022,
+    "coverage": 4.6
+  },
+  {
+    "name": "Sutton HP",
+    "lat": 51.367504,
+    "lng": -0.19857217,
+    "height": 84,
+    "power": 0.01,
+    "coverage": 3.6
+  },
+  {
+    "name": "Sutton VP",
+    "lat": 51.367504,
+    "lng": -0.19857217,
+    "height": 87,
+    "power": 0.01,
+    "coverage": 3.6
+  },
+  {
+    "name": "Walthamstow North",
+    "lat": 51.589843,
+    "lng": -0.011934679,
+    "height": 63,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Welwyn",
+    "lat": 51.830392,
+    "lng": -0.22573224,
+    "height": 124,
+    "power": 0.03,
+    "coverage": 5.2
+  },
+  {
+    "name": "West Wycombe",
+    "lat": 51.634962,
+    "lng": -0.78911616,
+    "height": 155,
+    "power": 0.0056,
+    "coverage": 2.9
+  },
+  {
+    "name": "Wonersh",
+    "lat": 51.199004,
+    "lng": -0.53536096,
+    "height": 126,
+    "power": 0.021,
+    "coverage": 4.6
+  },
+  {
+    "name": "Wooburn",
+    "lat": 51.577666,
+    "lng": -0.67908377,
+    "height": 142,
+    "power": 0.02,
+    "coverage": 4.5
+  },
+  {
+    "name": "Woolwich",
+    "lat": 51.494602,
+    "lng": 0.10205184,
+    "height": 52,
+    "power": 0.126,
+    "coverage": 8.3
+  },
+  {
+    "name": "Worlds End",
+    "lat": 51.480542,
+    "lng": -0.18116023,
+    "height": 62,
+    "power": 0.005,
+    "coverage": 2.8
+  },
+  {
+    "name": "Guildford",
+    "lat": 51.228367,
+    "lng": -0.60546692,
+    "height": 193,
+    "power": 2,
+    "coverage": 20.9
+  },
+  {
+    "name": "Hemel Hempstead",
+    "lat": 51.728581,
+    "lng": -0.42621696,
+    "height": 215,
+    "power": 2,
+    "coverage": 20.9
+  },
+  {
+    "name": "Reigate",
+    "lat": 51.254503,
+    "lng": -0.20098598,
+    "height": 298,
+    "power": 2,
+    "coverage": 20.9
+  },
+  {
+    "name": "Dorking HP",
+    "lat": 51.221037,
+    "lng": -0.32745056,
+    "height": 149,
+    "power": 0.009,
+    "coverage": 3.4
+  },
+  {
+    "name": "Dorking VP",
+    "lat": 51.221037,
+    "lng": -0.32745056,
+    "height": 149,
+    "power": 0.0044,
+    "coverage": 2.7
+  },
+  {
+    "name": "Bluebell Hill",
+    "lat": 51.324015,
+    "lng": 0.52068448,
+    "height": 242,
+    "power": 20,
+    "coverage": 45
+  },
+  {
+    "name": "Chatham Town",
+    "lat": 51.379226,
+    "lng": 0.53780127,
+    "height": 88,
+    "power": 0.005,
+    "coverage": 2.8
+  },
+  {
+    "name": "Farleigh",
+    "lat": 51.249687,
+    "lng": 0.48895825,
+    "height": 76,
+    "power": 0.0032,
+    "coverage": 2.4
+  },
+  {
+    "name": "Dover",
+    "lat": 51.111638,
+    "lng": 1.2472723,
+    "height": 370,
+    "power": 80,
+    "coverage": 71.5
+  },
+  {
+    "name": "Chartham",
+    "lat": 51.265686,
+    "lng": 1.0133869,
+    "height": 115,
+    "power": 0.05,
+    "coverage": 6.1
+  },
+  {
+    "name": "Dover Town",
+    "lat": 51.140017,
+    "lng": 1.3034572,
+    "height": 113,
+    "power": 0.02,
+    "coverage": 4.5
+  },
+  {
+    "name": "Elham",
+    "lat": 51.162114,
+    "lng": 1.1280781,
+    "height": 149,
+    "power": 0.004,
+    "coverage": 2.6
+  },
+  {
+    "name": "Faversham",
+    "lat": 51.305901,
+    "lng": 0.87353216,
+    "height": 64,
+    "power": 0.02,
+    "coverage": 4.5
+  },
+  {
+    "name": "Folkestone",
+    "lat": 51.079418,
+    "lng": 1.1693309,
+    "height": 75,
+    "power": 0.1,
+    "coverage": 7.7
+  },
+  {
+    "name": "Horn Street",
+    "lat": 51.080672,
+    "lng": 1.126148,
+    "height": 83,
+    "power": 0.02,
+    "coverage": 4.5
+  },
+  {
+    "name": "Hythe",
+    "lat": 51.067933,
+    "lng": 1.0944528,
+    "height": 24,
+    "power": 0.05,
+    "coverage": 6.1
+  },
+  {
+    "name": "Lydden",
+    "lat": 51.167192,
+    "lng": 1.2355809,
+    "height": 111,
+    "power": 0.004,
+    "coverage": 2.6
+  },
+  {
+    "name": "Lyminge",
+    "lat": 51.143402,
+    "lng": 1.0977845,
+    "height": 152,
+    "power": 0.005,
+    "coverage": 2.8
+  },
+  {
+    "name": "Margate",
+    "lat": 51.381155,
+    "lng": 1.4046063,
+    "height": 86,
+    "power": 0.2,
+    "coverage": 9.7
+  },
+  {
+    "name": "Newnham",
+    "lat": 51.280283,
+    "lng": 0.79492047,
+    "height": 110,
+    "power": 0.01,
+    "coverage": 3.6
+  },
+  {
+    "name": "Ramsgate",
+    "lat": 51.335654,
+    "lng": 1.4226279,
+    "height": 65,
+    "power": 0.05,
+    "coverage": 6.1
+  },
+  {
+    "name": "Rye",
+    "lat": 50.94619,
+    "lng": 0.70904765,
+    "height": 58,
+    "power": 0.05,
+    "coverage": 6.1
+  },
+  {
+    "name": "Turnpike Hill",
+    "lat": 51.068696,
+    "lng": 1.0723756,
+    "height": 16,
+    "power": 0.005,
+    "coverage": 2.8
+  },
+  {
+    "name": "Hannington",
+    "lat": 51.307882,
+    "lng": -1.2447766,
+    "height": 362,
+    "power": 50,
+    "coverage": 61.1
+  },
+  {
+    "name": "Aldbourne",
+    "lat": 51.475159,
+    "lng": -1.6241544,
+    "height": 170,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Alton",
+    "lat": 51.142301,
+    "lng": -0.96901592,
+    "height": 166,
+    "power": 0.005,
+    "coverage": 2.8
+  },
+  {
+    "name": "Chisbury",
+    "lat": 51.384827,
+    "lng": -1.6069317,
+    "height": 179,
+    "power": 0.008,
+    "coverage": 3.3
+  },
+  {
+    "name": "Hemdean HP",
+    "lat": 51.48031,
+    "lng": -0.97898283,
+    "height": 91,
+    "power": 0.008,
+    "coverage": 3.3
+  },
+  {
+    "name": "Hemdean VP",
+    "lat": 51.48031,
+    "lng": -0.97898283,
+    "height": 92,
+    "power": 0.032,
+    "coverage": 5.3
+  },
+  {
+    "name": "Hurstbourne Tarrant",
+    "lat": 51.277604,
+    "lng": -1.4608967,
+    "height": 158,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Lambourn",
+    "lat": 51.51255,
+    "lng": -1.5215345,
+    "height": 172,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "The Bournes",
+    "lat": 51.199726,
+    "lng": -0.7958371,
+    "height": 126,
+    "power": 0.0069,
+    "coverage": 3.2
+  },
+  {
+    "name": "Tidworth",
+    "lat": 51.238557,
+    "lng": -1.6740709,
+    "height": 177,
+    "power": 0.0026,
+    "coverage": 2.3
+  },
+  {
+    "name": "Hastings",
+    "lat": 50.861304,
+    "lng": 0.5648502,
+    "height": 124,
+    "power": 1,
+    "coverage": 16.6
+  },
+  {
+    "name": "Hastings Old Town",
+    "lat": 50.861575,
+    "lng": 0.59328796,
+    "height": 78,
+    "power": 0.014,
+    "coverage": 4
+  },
+  {
+    "name": "Heathfield",
+    "lat": 50.976731,
+    "lng": 0.2304372,
+    "height": 298,
+    "power": 20,
+    "coverage": 45
+  },
+  {
+    "name": "Bexhill UHF",
+    "lat": 50.84154,
+    "lng": 0.45509618,
+    "height": 45,
+    "power": 0.4,
+    "coverage": 12.2
+  },
+  {
+    "name": "East Dean",
+    "lat": 50.768084,
+    "lng": 0.2158175,
+    "height": 139,
+    "power": 0.008,
+    "coverage": 3.3
+  },
+  {
+    "name": "Eastbourne",
+    "lat": 50.75668,
+    "lng": 0.2755392,
+    "height": 83,
+    "power": 0.2,
+    "coverage": 9.7
+  },
+  {
+    "name": "Eastbourne Old Town",
+    "lat": 50.773946,
+    "lng": 0.26644823,
+    "height": 43,
+    "power": 0.016,
+    "coverage": 4.2
+  },
+  {
+    "name": "Ham Street",
+    "lat": 51.063115,
+    "lng": 0.86003475,
+    "height": 31,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Haywards Heath",
+    "lat": 50.994567,
+    "lng": -0.10189657,
+    "height": 110,
+    "power": 0.007,
+    "coverage": 3.2
+  },
+  {
+    "name": "Hollington Park",
+    "lat": 50.869732,
+    "lng": 0.54967763,
+    "height": 103,
+    "power": 0.005,
+    "coverage": 2.8
+  },
+  {
+    "name": "Lamberhurst",
+    "lat": 51.10429,
+    "lng": 0.38828209,
+    "height": 87,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Lewes HP",
+    "lat": 50.871435,
+    "lng": 0.001117392,
+    "height": 62,
+    "power": 0.012,
+    "coverage": 3.8
+  },
+  {
+    "name": "Lewes VP",
+    "lat": 50.871435,
+    "lng": 0.001117392,
+    "height": 62,
+    "power": 0.048,
+    "coverage": 6
+  },
+  {
+    "name": "Mountfield",
+    "lat": 50.946878,
+    "lng": 0.47559236,
+    "height": 86,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Newhaven",
+    "lat": 50.787219,
+    "lng": 0.034407248,
+    "height": 132,
+    "power": 0.4,
+    "coverage": 12.2
+  },
+  {
+    "name": "Sedlescombe",
+    "lat": 50.935652,
+    "lng": 0.53762512,
+    "height": 56,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Wye",
+    "lat": 51.187103,
+    "lng": 0.9558715,
+    "height": 139,
+    "power": 0.0062,
+    "coverage": 3
+  },
+  {
+    "name": "Midhurst",
+    "lat": 51.017062,
+    "lng": -0.70091958,
+    "height": 299,
+    "power": 20,
+    "coverage": 45
+  },
+  {
+    "name": "Haslemere",
+    "lat": 51.090376,
+    "lng": -0.73599293,
+    "height": 220,
+    "power": 0.01,
+    "coverage": 3.6
+  },
+  {
+    "name": "Steyning",
+    "lat": 50.896596,
+    "lng": -0.31663203,
+    "height": 26,
+    "power": 0.056,
+    "coverage": 6.3
+  },
+  {
+    "name": "Oxford",
+    "lat": 51.790649,
+    "lng": -1.1791826,
+    "height": 295,
+    "power": 100,
+    "coverage": 77
+  },
+  {
+    "name": "Ascott Under Wychwood",
+    "lat": 51.871899,
+    "lng": -1.5844014,
+    "height": 169,
+    "power": 0.0058,
+    "coverage": 3
+  },
+  {
+    "name": "Charlbury",
+    "lat": 51.875262,
+    "lng": -1.5009919,
+    "height": 127,
+    "power": 0.01,
+    "coverage": 3.6
+  },
+  {
+    "name": "Guiting Power",
+    "lat": 51.908506,
+    "lng": -1.8542978,
+    "height": 249,
+    "power": 0.0046,
+    "coverage": 2.8
+  },
+  {
+    "name": "Icomb Hill",
+    "lat": 51.904188,
+    "lng": -1.7077978,
+    "height": 289,
+    "power": 0.022,
+    "coverage": 4.6
+  },
+  {
+    "name": "Over Norton",
+    "lat": 51.951709,
+    "lng": -1.5517988,
+    "height": 233,
+    "power": 0.031,
+    "coverage": 5.2
+  },
+  {
+    "name": "Rowridge",
+    "lat": 50.67681,
+    "lng": -1.3684527,
+    "height": 320,
+    "power": 200,
+    "coverage": 97
+  },
+  {
+    "name": "Bovington",
+    "lat": 50.690179,
+    "lng": -2.2215001,
+    "height": 50,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Brading",
+    "lat": 50.681785,
+    "lng": -1.1346966,
+    "height": 17,
+    "power": 0.01,
+    "coverage": 3.6
+  },
+  {
+    "name": "Brighstone",
+    "lat": 50.633196,
+    "lng": -1.3854391,
+    "height": 72,
+    "power": 0.071,
+    "coverage": 6.9
+  },
+  {
+    "name": "Canford Heath",
+    "lat": 50.744965,
+    "lng": -1.9492078,
+    "height": 97,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Cheselbourne",
+    "lat": 50.785874,
+    "lng": -2.3301887,
+    "height": 142,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Corfe Castle",
+    "lat": 50.638945,
+    "lng": -2.0401087,
+    "height": 135,
+    "power": 0.004,
+    "coverage": 2.6
+  },
+  {
+    "name": "Donhead",
+    "lat": 51.006309,
+    "lng": -2.1332119,
+    "height": 187,
+    "power": 0.0058,
+    "coverage": 3
+  },
+  {
+    "name": "Findon",
+    "lat": 50.853932,
+    "lng": -0.41023227,
+    "height": 158,
+    "power": 2,
+    "coverage": 20.9
+  },
+  {
+    "name": "Horndean",
+    "lat": 50.932843,
+    "lng": -1.0079489,
+    "height": 138,
+    "power": 0.005,
+    "coverage": 2.8
+  },
+  {
+    "name": "Luccombe",
+    "lat": 50.616824,
+    "lng": -1.1801312,
+    "height": 164,
+    "power": 0.04,
+    "coverage": 5.7
+  },
+  {
+    "name": "Lulworth",
+    "lat": 50.632927,
+    "lng": -2.2502167,
+    "height": 173,
+    "power": 0.0022,
+    "coverage": 2.2
+  },
+  {
+    "name": "Luscombe Valley",
+    "lat": 50.717349,
+    "lng": -1.9336562,
+    "height": 64,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Millbrook HP",
+    "lat": 50.922899,
+    "lng": -1.4688457,
+    "height": 54,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Millbrook VP",
+    "lat": 50.922452,
+    "lng": -1.4692776,
+    "height": 53,
+    "power": 0.016,
+    "coverage": 4.2
+  },
+  {
+    "name": "Piddletrenthide",
+    "lat": 50.789628,
+    "lng": -2.4210105,
+    "height": 153,
+    "power": 0.0112,
+    "coverage": 3.7
+  },
+  {
+    "name": "Poole",
+    "lat": 50.728508,
+    "lng": -1.9489422,
+    "height": 109,
+    "power": 0.05,
+    "coverage": 6.1
+  },
+  {
+    "name": "Poulner",
+    "lat": 50.847401,
+    "lng": -1.7948393,
+    "height": 47,
+    "power": 0.01,
+    "coverage": 3.6
+  },
+  {
+    "name": "Rowridge VP",
+    "lat": 50.67681,
+    "lng": -1.3684527,
+    "height": 320,
+    "power": 200,
+    "coverage": 97
+  },
+  {
+    "name": "Shrewton",
+    "lat": 51.193556,
+    "lng": -1.8970583,
+    "height": 139,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Singleton",
+    "lat": 50.911418,
+    "lng": -0.76929467,
+    "height": 108,
+    "power": 0.0026,
+    "coverage": 2.3
+  },
+  {
+    "name": "Sutton Row",
+    "lat": 51.054938,
+    "lng": -2.034905,
+    "height": 205,
+    "power": 0.05,
+    "coverage": 6.1
+  },
+  {
+    "name": "Till Valley",
+    "lat": 51.133047,
+    "lng": -1.9059105,
+    "height": 109,
+    "power": 0.015,
+    "coverage": 4.1
+  },
+  {
+    "name": "Ventnor",
+    "lat": 50.602029,
+    "lng": -1.1993231,
+    "height": 271,
+    "power": 1.6,
+    "coverage": 19.4
+  },
+  {
+    "name": "Westbourne",
+    "lat": 50.723985,
+    "lng": -1.9064464,
+    "height": 74,
+    "power": 0.0076,
+    "coverage": 3.3
+  },
+  {
+    "name": "Winterborne Stickland",
+    "lat": 50.845194,
+    "lng": -2.2307563,
+    "height": 209,
+    "power": 0.4,
+    "coverage": 12.2
+  },
+  {
+    "name": "Winterbourne Steepleton",
+    "lat": 50.702781,
+    "lng": -2.5260115,
+    "height": 163,
+    "power": 0.0024,
+    "coverage": 2.2
+  },
+  {
+    "name": "Salisbury",
+    "lat": 51.055863,
+    "lng": -1.8067618,
+    "height": 153,
+    "power": 2,
+    "coverage": 20.9
+  },
+  {
+    "name": "Whitehawk Hill",
+    "lat": 50.824962,
+    "lng": -0.11361094,
+    "height": 171,
+    "power": 4,
+    "coverage": 26.3
+  },
+  {
+    "name": "Bevendean",
+    "lat": 50.843555,
+    "lng": -0.10661112,
+    "height": 83,
+    "power": 0.005,
+    "coverage": 2.8
+  },
+  {
+    "name": "Brighton Central",
+    "lat": 50.828778,
+    "lng": -0.13844928,
+    "height": 83,
+    "power": 0.02,
+    "coverage": 4.5
+  },
+  {
+    "name": "Coldean",
+    "lat": 50.858948,
+    "lng": -0.11309234,
+    "height": 122,
+    "power": 0.016,
+    "coverage": 4.2
+  },
+  {
+    "name": "Hangleton",
+    "lat": 50.855334,
+    "lng": -0.19735031,
+    "height": 104,
+    "power": 0.01,
+    "coverage": 3.6
+  },
+  {
+    "name": "Ovingdean HP",
+    "lat": 50.823225,
+    "lng": -0.073357289,
+    "height": 106,
+    "power": 0.018,
+    "coverage": 4.3
+  },
+  {
+    "name": "Ovingdean VP",
+    "lat": 50.823225,
+    "lng": -0.073357289,
+    "height": 106,
+    "power": 0.018,
+    "coverage": 4.3
+  },
+  {
+    "name": "Patcham",
+    "lat": 50.868356,
+    "lng": -0.12763525,
+    "height": 141,
+    "power": 0.0138,
+    "coverage": 4
+  },
+  {
+    "name": "Portslade",
+    "lat": 50.858651,
+    "lng": -0.23189249,
+    "height": 100,
+    "power": 0.01,
+    "coverage": 3.6
+  },
+  {
+    "name": "Saltdean",
+    "lat": 50.813527,
+    "lng": -0.031169585,
+    "height": 64,
+    "power": 0.026,
+    "coverage": 4.9
+  },
+  {
+    "name": "Tunbridge Wells",
+    "lat": 51.172566,
+    "lng": 0.29781552,
+    "height": 174,
+    "power": 4,
+    "coverage": 26.3
+  },
+  {
+    "name": "St Marks VP",
+    "lat": 51.113868,
+    "lng": 0.25932454,
+    "height": 168,
+    "power": 0.0256,
+    "coverage": 4.9
+  },
+  {
+    "name": "St Marks HP",
+    "lat": 51.113868,
+    "lng": 0.25932454,
+    "height": 168,
+    "power": 0.0064,
+    "coverage": 3.1
+  },
+  {
+    "name": "Brougher Mountain",
+    "lat": 54.423137,
+    "lng": -7.462156,
+    "height": 365,
+    "power": 20,
+    "coverage": 45
+  },
+  {
+    "name": "Belcoo",
+    "lat": 54.276137,
+    "lng": -7.8620757,
+    "height": 197,
+    "power": 0.07,
+    "coverage": 6.8
+  },
+  {
+    "name": "Castlederg",
+    "lat": 54.694766,
+    "lng": -7.5861754,
+    "height": 89,
+    "power": 0.0022,
+    "coverage": 2.2
+  },
+  {
+    "name": "Claudy",
+    "lat": 54.906486,
+    "lng": -7.1255659,
+    "height": 159,
+    "power": 0.023,
+    "coverage": 4.7
+  },
+  {
+    "name": "Derrygonnelly",
+    "lat": 54.411182,
+    "lng": -7.821046,
+    "height": 98,
+    "power": 0.004,
+    "coverage": 2.6
+  },
+  {
+    "name": "Ederny",
+    "lat": 54.55463,
+    "lng": -7.6324518,
+    "height": 156,
+    "power": 0.0112,
+    "coverage": 3.7
+  },
+  {
+    "name": "Glenelly Valley",
+    "lat": 54.766027,
+    "lng": -7.1061958,
+    "height": 242,
+    "power": 0.0026,
+    "coverage": 2.3
+  },
+  {
+    "name": "Gortnalee",
+    "lat": 54.446861,
+    "lng": -8.0702002,
+    "height": 149,
+    "power": 0.03,
+    "coverage": 5.2
+  },
+  {
+    "name": "Lisbellaw",
+    "lat": 54.316453,
+    "lng": -7.5258701,
+    "height": 107,
+    "power": 0.004,
+    "coverage": 2.6
+  },
+  {
+    "name": "Muldonagh",
+    "lat": 54.934161,
+    "lng": -7.0665831,
+    "height": 226,
+    "power": 0.02,
+    "coverage": 4.5
+  },
+  {
+    "name": "Plumbridge",
+    "lat": 54.761231,
+    "lng": -7.2394181,
+    "height": 164,
+    "power": 0.005,
+    "coverage": 2.8
+  },
+  {
+    "name": "Strabane",
+    "lat": 54.797788,
+    "lng": -7.3905793,
+    "height": 581,
+    "power": 0.4,
+    "coverage": 12.2
+  },
+  {
+    "name": "Divis",
+    "lat": 54.60747,
+    "lng": -6.0093474,
+    "height": 513,
+    "power": 100,
+    "coverage": 77
+  },
+  {
+    "name": "Armagh",
+    "lat": 54.342485,
+    "lng": -6.6294781,
+    "height": 156,
+    "power": 0.024,
+    "coverage": 4.8
+  },
+  {
+    "name": "Banbridge",
+    "lat": 54.350133,
+    "lng": -6.2562867,
+    "height": 133,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Bangor",
+    "lat": 54.661415,
+    "lng": -5.6758509,
+    "height": 38,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Bellair",
+    "lat": 54.968438,
+    "lng": -5.977902,
+    "height": 228,
+    "power": 0.008,
+    "coverage": 3.3
+  },
+  {
+    "name": "Benagh",
+    "lat": 54.054995,
+    "lng": -6.0749614,
+    "height": 41,
+    "power": 0.2,
+    "coverage": 9.7
+  },
+  {
+    "name": "Black Mountain",
+    "lat": 54.585575,
+    "lng": -6.0240729,
+    "height": 486,
+    "power": 0.005,
+    "coverage": 2.8
+  },
+  {
+    "name": "Camlough",
+    "lat": 54.160091,
+    "lng": -6.3857103,
+    "height": 372,
+    "power": 0.5,
+    "coverage": 13.2
+  },
+  {
+    "name": "Carnmoney Hill",
+    "lat": 54.676837,
+    "lng": -5.9291221,
+    "height": 254,
+    "power": 0.016,
+    "coverage": 4.2
+  },
+  {
+    "name": "Conlig",
+    "lat": 54.630012,
+    "lng": -5.6734796,
+    "height": 68,
+    "power": 0.0126,
+    "coverage": 3.9
+  },
+  {
+    "name": "Cushendall",
+    "lat": 55.080125,
+    "lng": -6.1081405,
+    "height": 187,
+    "power": 0.005,
+    "coverage": 2.8
+  },
+  {
+    "name": "Cushendun",
+    "lat": 55.145589,
+    "lng": -6.0332199,
+    "height": 151,
+    "power": 0.02,
+    "coverage": 4.5
+  },
+  {
+    "name": "Draperstown",
+    "lat": 54.801984,
+    "lng": -6.812783,
+    "height": 132,
+    "power": 0.0024,
+    "coverage": 2.2
+  },
+  {
+    "name": "Dromore",
+    "lat": 54.415348,
+    "lng": -6.1557118,
+    "height": 116,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Glenariff",
+    "lat": 55.064408,
+    "lng": -6.0673501,
+    "height": 118,
+    "power": 0.009,
+    "coverage": 3.4
+  },
+  {
+    "name": "Glynn",
+    "lat": 54.833226,
+    "lng": -5.8196819,
+    "height": 136,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Kilkeel",
+    "lat": 54.094781,
+    "lng": -6.0421417,
+    "height": 291,
+    "power": 0.4,
+    "coverage": 12.2
+  },
+  {
+    "name": "Killowen Mountain",
+    "lat": 54.091774,
+    "lng": -6.156607,
+    "height": 454,
+    "power": 0.005,
+    "coverage": 2.8
+  },
+  {
+    "name": "Larne",
+    "lat": 54.861722,
+    "lng": -5.828615,
+    "height": 162,
+    "power": 0.4,
+    "coverage": 12.2
+  },
+  {
+    "name": "Leitrim",
+    "lat": 54.314902,
+    "lng": -6.0760297,
+    "height": 339,
+    "power": 0.2,
+    "coverage": 9.7
+  },
+  {
+    "name": "Moneymore",
+    "lat": 54.685459,
+    "lng": -6.6731712,
+    "height": 67,
+    "power": 0.008,
+    "coverage": 3.3
+  },
+  {
+    "name": "Newcastle",
+    "lat": 54.203333,
+    "lng": -5.9146726,
+    "height": 269,
+    "power": 0.8,
+    "coverage": 15.4
+  },
+  {
+    "name": "Newry North",
+    "lat": 54.192664,
+    "lng": -6.3308724,
+    "height": 89,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Newry South",
+    "lat": 54.16739,
+    "lng": -6.3257744,
+    "height": 98,
+    "power": 0.004,
+    "coverage": 2.6
+  },
+  {
+    "name": "Newtownards",
+    "lat": 54.59027,
+    "lng": -5.6791887,
+    "height": 34,
+    "power": 0.0022,
+    "coverage": 2.2
+  },
+  {
+    "name": "Rostrevor",
+    "lat": 54.093511,
+    "lng": -6.1843247,
+    "height": 199,
+    "power": 0.023,
+    "coverage": 4.7
+  },
+  {
+    "name": "Whitehead",
+    "lat": 54.762974,
+    "lng": -5.7073002,
+    "height": 76,
+    "power": 0.0024,
+    "coverage": 2.2
+  },
+  {
+    "name": "Limavady",
+    "lat": 55.109014,
+    "lng": -6.8859574,
+    "height": 382,
+    "power": 20,
+    "coverage": 45
+  },
+  {
+    "name": "Ballintoy",
+    "lat": 55.237853,
+    "lng": -6.3699654,
+    "height": 73,
+    "power": 0.004,
+    "coverage": 2.6
+  },
+  {
+    "name": "Ballycastle",
+    "lat": 55.191714,
+    "lng": -6.2452536,
+    "height": 142,
+    "power": 0.0026,
+    "coverage": 2.3
+  },
+  {
+    "name": "Buckna",
+    "lat": 54.888051,
+    "lng": -6.0963406,
+    "height": 226,
+    "power": 0.02,
+    "coverage": 4.5
+  },
+  {
+    "name": "Bushmills",
+    "lat": 55.202467,
+    "lng": -6.5139244,
+    "height": 58,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Gortnageeragh",
+    "lat": 54.96737,
+    "lng": -6.1966601,
+    "height": 214,
+    "power": 0.032,
+    "coverage": 5.3
+  },
+  {
+    "name": "Londonderry",
+    "lat": 55.003015,
+    "lng": -7.3696077,
+    "height": 286,
+    "power": 2,
+    "coverage": 20.9
+  },
+  {
+    "name": "Black Hill",
+    "lat": 55.860008,
+    "lng": -3.8690985,
+    "height": 577,
+    "power": 100,
+    "coverage": 77
+  },
+  {
+    "name": "Abington",
+    "lat": 55.481964,
+    "lng": -3.6807189,
+    "height": 447,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Biggar",
+    "lat": 55.576548,
+    "lng": -3.5619805,
+    "height": 368,
+    "power": 0.1,
+    "coverage": 7.7
+  },
+  {
+    "name": "Bridge Of Allan",
+    "lat": 56.16392,
+    "lng": -3.9453592,
+    "height": 111,
+    "power": 0.005,
+    "coverage": 2.8
+  },
+  {
+    "name": "Broughton",
+    "lat": 55.605482,
+    "lng": -3.3826429,
+    "height": 295,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Callander",
+    "lat": 56.231427,
+    "lng": -4.1452911,
+    "height": 187,
+    "power": 0.02,
+    "coverage": 4.5
+  },
+  {
+    "name": "Cathcart",
+    "lat": 55.826269,
+    "lng": -4.2910522,
+    "height": 111,
+    "power": 0.008,
+    "coverage": 3.3
+  },
+  {
+    "name": "Clachan",
+    "lat": 55.748921,
+    "lng": -5.5607606,
+    "height": 68,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Cumbernauld Village",
+    "lat": 55.961893,
+    "lng": -3.9965694,
+    "height": 175,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Deanston",
+    "lat": 56.195031,
+    "lng": -4.0768488,
+    "height": 52,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Dollar",
+    "lat": 56.166942,
+    "lng": -3.6911982,
+    "height": 147,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Dunoon Forest Road",
+    "lat": 55.952321,
+    "lng": -4.9367315,
+    "height": 58,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Easdale",
+    "lat": 56.290309,
+    "lng": -5.630881,
+    "height": 48,
+    "power": 0.007,
+    "coverage": 3.2
+  },
+  {
+    "name": "Fintry",
+    "lat": 56.072924,
+    "lng": -4.2547349,
+    "height": 129,
+    "power": 0.0039,
+    "coverage": 2.6
+  },
+  {
+    "name": "Gigha Island",
+    "lat": 55.668661,
+    "lng": -5.749623,
+    "height": 53,
+    "power": 0.012,
+    "coverage": 3.8
+  },
+  {
+    "name": "Glasgow West Central",
+    "lat": 55.88551,
+    "lng": -4.2951823,
+    "height": 93,
+    "power": 0.0064,
+    "coverage": 3.1
+  },
+  {
+    "name": "Glespin",
+    "lat": 55.53701,
+    "lng": -3.8697477,
+    "height": 236,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Haddington",
+    "lat": 55.953562,
+    "lng": -2.7401611,
+    "height": 97,
+    "power": 0.008,
+    "coverage": 3.3
+  },
+  {
+    "name": "Kelvindale",
+    "lat": 55.89429,
+    "lng": -4.3110558,
+    "height": 60,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Killearn",
+    "lat": 56.032567,
+    "lng": -4.4345703,
+    "height": 163,
+    "power": 0.1,
+    "coverage": 7.7
+  },
+  {
+    "name": "Kilmacolm",
+    "lat": 55.88674,
+    "lng": -4.6499629,
+    "height": 158,
+    "power": 0.0064,
+    "coverage": 3.1
+  },
+  {
+    "name": "Kirkconnel",
+    "lat": 55.412723,
+    "lng": -3.9834613,
+    "height": 530,
+    "power": 0.05,
+    "coverage": 6.1
+  },
+  {
+    "name": "Kirkfieldbank",
+    "lat": 55.678906,
+    "lng": -3.8103494,
+    "height": 172,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Largs Holehouse",
+    "lat": 55.79452,
+    "lng": -4.850638,
+    "height": 96,
+    "power": 0.01,
+    "coverage": 3.6
+  },
+  {
+    "name": "Leadhills",
+    "lat": 55.415273,
+    "lng": -3.7643019,
+    "height": 429,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Millport",
+    "lat": 55.760094,
+    "lng": -4.9232121,
+    "height": 62,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Netherton Brae",
+    "lat": 55.789933,
+    "lng": -4.2633951,
+    "height": 141,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "New Cumnock",
+    "lat": 55.391915,
+    "lng": -4.191481,
+    "height": 203,
+    "power": 0.0024,
+    "coverage": 2.2
+  },
+  {
+    "name": "Ravenscraig HP",
+    "lat": 55.940667,
+    "lng": -4.8003501,
+    "height": 114,
+    "power": 0.0012,
+    "coverage": 1.8
+  },
+  {
+    "name": "Ravenscraig VP",
+    "lat": 55.940667,
+    "lng": -4.8003501,
+    "height": 114,
+    "power": 0.0024,
+    "coverage": 2.2
+  },
+  {
+    "name": "Rothesay",
+    "lat": 55.878114,
+    "lng": -4.9982849,
+    "height": 218,
+    "power": 0.4,
+    "coverage": 12.2
+  },
+  {
+    "name": "Rothesay Town",
+    "lat": 55.838388,
+    "lng": -5.0635977,
+    "height": 69,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "South Knapdale",
+    "lat": 55.917512,
+    "lng": -5.4630236,
+    "height": 530,
+    "power": 0.365,
+    "coverage": 11.9
+  },
+  {
+    "name": "Strachur",
+    "lat": 56.178979,
+    "lng": -5.071679,
+    "height": 187,
+    "power": 0.0062,
+    "coverage": 3
+  },
+  {
+    "name": "Strathblane",
+    "lat": 55.982084,
+    "lng": -4.3166125,
+    "height": 134,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Strathyre",
+    "lat": 56.323405,
+    "lng": -4.3317538,
+    "height": 141,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Strathyre Link",
+    "lat": 56.324799,
+    "lng": -4.2956083,
+    "height": 608,
+    "power": 0.0001,
+    "coverage": 0.8
+  },
+  {
+    "name": "Tarbert",
+    "lat": 55.857715,
+    "lng": -5.4247664,
+    "height": 85,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Tighnabruaich",
+    "lat": 55.920632,
+    "lng": -5.2120931,
+    "height": 189,
+    "power": 0.0184,
+    "coverage": 4.4
+  },
+  {
+    "name": "Tillicoultry",
+    "lat": 56.153976,
+    "lng": -3.732006,
+    "height": 51,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Twechar",
+    "lat": 55.954579,
+    "lng": -4.0907017,
+    "height": 79,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Uplawmoor",
+    "lat": 55.775387,
+    "lng": -4.4947275,
+    "height": 251,
+    "power": 0.005,
+    "coverage": 2.8
+  },
+  {
+    "name": "West Kilbride",
+    "lat": 55.695664,
+    "lng": -4.841842,
+    "height": 217,
+    "power": 0.2,
+    "coverage": 9.7
+  },
+  {
+    "name": "Craigkelly",
+    "lat": 56.071815,
+    "lng": -3.2331864,
+    "height": 311,
+    "power": 20,
+    "coverage": 45
+  },
+  {
+    "name": "Aberfoyle",
+    "lat": 56.161096,
+    "lng": -4.3789197,
+    "height": 122,
+    "power": 0.033,
+    "coverage": 5.3
+  },
+  {
+    "name": "Cannongate HP",
+    "lat": 55.949758,
+    "lng": -3.1817414,
+    "height": 79,
+    "power": 0.0026,
+    "coverage": 2.3
+  },
+  {
+    "name": "Cannongate VP",
+    "lat": 55.949758,
+    "lng": -3.1817414,
+    "height": 69,
+    "power": 0.0026,
+    "coverage": 2.3
+  },
+  {
+    "name": "Grangemouth",
+    "lat": 55.997105,
+    "lng": -3.7301126,
+    "height": 44,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Kinross",
+    "lat": 56.181092,
+    "lng": -3.4548256,
+    "height": 170,
+    "power": 0.025,
+    "coverage": 4.8
+  },
+  {
+    "name": "Newbattle",
+    "lat": 55.874299,
+    "lng": -3.0819531,
+    "height": 87,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Penicuik",
+    "lat": 55.819166,
+    "lng": -3.1943777,
+    "height": 298,
+    "power": 0.4,
+    "coverage": 12.2
+  },
+  {
+    "name": "West Linton",
+    "lat": 55.743253,
+    "lng": -3.3325547,
+    "height": 323,
+    "power": 0.005,
+    "coverage": 2.8
+  },
+  {
+    "name": "Darvel",
+    "lat": 55.579399,
+    "lng": -4.2898156,
+    "height": 446,
+    "power": 20,
+    "coverage": 45
+  },
+  {
+    "name": "Ardentinny",
+    "lat": 56.035883,
+    "lng": -4.9117699,
+    "height": 118,
+    "power": 0.014,
+    "coverage": 4
+  },
+  {
+    "name": "Arrochar",
+    "lat": 56.2035,
+    "lng": -4.7601473,
+    "height": 122,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Ayr South",
+    "lat": 55.435482,
+    "lng": -4.6009717,
+    "height": 72,
+    "power": 0.004,
+    "coverage": 2.6
+  },
+  {
+    "name": "Blackwaterfoot",
+    "lat": 55.510898,
+    "lng": -5.3083649,
+    "height": 70,
+    "power": 0.008,
+    "coverage": 3.3
+  },
+  {
+    "name": "Bowmore HP",
+    "lat": 55.750057,
+    "lng": -6.2743802,
+    "height": 83,
+    "power": 0.01,
+    "coverage": 3.6
+  },
+  {
+    "name": "Bowmore VP",
+    "lat": 55.750057,
+    "lng": -6.2743802,
+    "height": 93,
+    "power": 0.013,
+    "coverage": 3.9
+  },
+  {
+    "name": "Campbeltown",
+    "lat": 55.413737,
+    "lng": -5.6242429,
+    "height": 124,
+    "power": 0.025,
+    "coverage": 4.8
+  },
+  {
+    "name": "Carradale",
+    "lat": 55.583278,
+    "lng": -5.4642994,
+    "height": 37,
+    "power": 0.012,
+    "coverage": 3.8
+  },
+  {
+    "name": "Catrine",
+    "lat": 55.501065,
+    "lng": -4.3305523,
+    "height": 123,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Claonaig",
+    "lat": 55.755114,
+    "lng": -5.3864243,
+    "height": 88,
+    "power": 0.03,
+    "coverage": 5.2
+  },
+  {
+    "name": "Dunure",
+    "lat": 55.398173,
+    "lng": -4.765,
+    "height": 89,
+    "power": 0.0024,
+    "coverage": 2.2
+  },
+  {
+    "name": "Girvan",
+    "lat": 55.244668,
+    "lng": -4.8145912,
+    "height": 229,
+    "power": 0.05,
+    "coverage": 6.1
+  },
+  {
+    "name": "High Keil",
+    "lat": 55.313021,
+    "lng": -5.6576083,
+    "height": 68,
+    "power": 0.0038,
+    "coverage": 2.6
+  },
+  {
+    "name": "Holmhead",
+    "lat": 55.452251,
+    "lng": -4.2688398,
+    "height": 142,
+    "power": 0.0024,
+    "coverage": 2.2
+  },
+  {
+    "name": "Kirkmichael",
+    "lat": 55.327815,
+    "lng": -4.595803,
+    "height": 155,
+    "power": 0.009,
+    "coverage": 3.4
+  },
+  {
+    "name": "Kirkoswald HP",
+    "lat": 55.329658,
+    "lng": -4.7893952,
+    "height": 152,
+    "power": 0.0072,
+    "coverage": 3.2
+  },
+  {
+    "name": "Kirkoswald VP",
+    "lat": 55.329565,
+    "lng": -4.7895463,
+    "height": 154,
+    "power": 0.008,
+    "coverage": 3.3
+  },
+  {
+    "name": "Lethanhill",
+    "lat": 55.364233,
+    "lng": -4.4649968,
+    "height": 348,
+    "power": 0.05,
+    "coverage": 6.1
+  },
+  {
+    "name": "Lochgoilhead",
+    "lat": 56.138623,
+    "lng": -4.9081075,
+    "height": 170,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Lochgoilhead AD",
+    "lat": 56.137574,
+    "lng": -4.9144676,
+    "height": 323,
+    "power": 0,
+    "coverage": 0
+  },
+  {
+    "name": "Lochwinnoch",
+    "lat": 55.789158,
+    "lng": -4.6525822,
+    "height": 149,
+    "power": 0.0172,
+    "coverage": 4.3
+  },
+  {
+    "name": "Millburn Muir",
+    "lat": 55.98234,
+    "lng": -4.6010294,
+    "height": 211,
+    "power": 0.05,
+    "coverage": 6.1
+  },
+  {
+    "name": "Muirkirk",
+    "lat": 55.51697,
+    "lng": -4.0439852,
+    "height": 313,
+    "power": 0.02,
+    "coverage": 4.5
+  },
+  {
+    "name": "Port Ellen",
+    "lat": 55.62747,
+    "lng": -6.2276199,
+    "height": 120,
+    "power": 0.03,
+    "coverage": 5.2
+  },
+  {
+    "name": "Portnahaven",
+    "lat": 55.681924,
+    "lng": -6.4894947,
+    "height": 74,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Sorn",
+    "lat": 55.506601,
+    "lng": -4.2847941,
+    "height": 178,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Troon",
+    "lat": 55.548254,
+    "lng": -4.6570937,
+    "height": 40,
+    "power": 0.004,
+    "coverage": 2.6
+  },
+  {
+    "name": "Wanlockhead",
+    "lat": 55.394935,
+    "lng": -3.7785545,
+    "height": 450,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Rosneath VP",
+    "lat": 55.991962,
+    "lng": -4.7937963,
+    "height": 216,
+    "power": 2,
+    "coverage": 20.9
+  },
+  {
+    "name": "Rosneath HP",
+    "lat": 55.991962,
+    "lng": -4.7937963,
+    "height": 212,
+    "power": 0.008,
+    "coverage": 3.3
+  },
+  {
+    "name": "Ardnadam",
+    "lat": 55.977356,
+    "lng": -4.9386297,
+    "height": 66,
+    "power": 0.014,
+    "coverage": 4
+  },
+  {
+    "name": "Garelochhead",
+    "lat": 56.087146,
+    "lng": -4.8373432,
+    "height": 62,
+    "power": 0.0025,
+    "coverage": 2.3
+  },
+  {
+    "name": "Torosay",
+    "lat": 56.458131,
+    "lng": -5.7292291,
+    "height": 481,
+    "power": 4,
+    "coverage": 26.3
+  },
+  {
+    "name": "Acharacle",
+    "lat": 56.759652,
+    "lng": -5.7992118,
+    "height": 101,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Arisaig",
+    "lat": 56.918175,
+    "lng": -5.8314363,
+    "height": 163,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Ballachulish",
+    "lat": 56.684385,
+    "lng": -5.1703966,
+    "height": 48,
+    "power": 0.0036,
+    "coverage": 2.5
+  },
+  {
+    "name": "Bellanoch",
+    "lat": 56.07045,
+    "lng": -5.5294638,
+    "height": 96,
+    "power": 0.01,
+    "coverage": 3.6
+  },
+  {
+    "name": "Castlebay",
+    "lat": 56.950829,
+    "lng": -7.5089539,
+    "height": 69,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Cow Hill",
+    "lat": 56.814769,
+    "lng": -5.0935616,
+    "height": 345,
+    "power": 0.013,
+    "coverage": 3.9
+  },
+  {
+    "name": "Dalmally",
+    "lat": 56.390225,
+    "lng": -5.0094331,
+    "height": 180,
+    "power": 0.0082,
+    "coverage": 3.3
+  },
+  {
+    "name": "Dychliemore Link",
+    "lat": 56.369854,
+    "lng": -5.0154386,
+    "height": 206,
+    "power": 0.0001,
+    "coverage": 0.8
+  },
+  {
+    "name": "Fiunary",
+    "lat": 56.552631,
+    "lng": -5.9018239,
+    "height": 44,
+    "power": 0.01,
+    "coverage": 3.6
+  },
+  {
+    "name": "Glengorm",
+    "lat": 56.631554,
+    "lng": -6.1335088,
+    "height": 301,
+    "power": 1,
+    "coverage": 16.6
+  },
+  {
+    "name": "Kilmelford",
+    "lat": 56.232787,
+    "lng": -5.52454,
+    "height": 297,
+    "power": 0.015,
+    "coverage": 4.1
+  },
+  {
+    "name": "Kinlochleven",
+    "lat": 56.722823,
+    "lng": -4.9789159,
+    "height": 297,
+    "power": 0.0024,
+    "coverage": 2.2
+  },
+  {
+    "name": "Kintraw",
+    "lat": 56.186235,
+    "lng": -5.4985012,
+    "height": 56,
+    "power": 0.004,
+    "coverage": 2.6
+  },
+  {
+    "name": "Loch Feochan",
+    "lat": 56.37417,
+    "lng": -5.4654986,
+    "height": 128,
+    "power": 0.0082,
+    "coverage": 3.3
+  },
+  {
+    "name": "Mallaig",
+    "lat": 57.001526,
+    "lng": -5.8284783,
+    "height": 92,
+    "power": 0.0044,
+    "coverage": 2.7
+  },
+  {
+    "name": "Oban",
+    "lat": 56.403986,
+    "lng": -5.4858846,
+    "height": 165,
+    "power": 0.0024,
+    "coverage": 2.2
+  },
+  {
+    "name": "Onich HP",
+    "lat": 56.705669,
+    "lng": -5.2409897,
+    "height": 86,
+    "power": 0.0009,
+    "coverage": 1.6
+  },
+  {
+    "name": "Onich VP",
+    "lat": 56.705669,
+    "lng": -5.2409897,
+    "height": 84,
+    "power": 0.0034,
+    "coverage": 2.5
+  },
+  {
+    "name": "Spean Bridge",
+    "lat": 56.894496,
+    "lng": -4.9258985,
+    "height": 113,
+    "power": 0.014,
+    "coverage": 4
+  },
+  {
+    "name": "Strontian",
+    "lat": 56.732326,
+    "lng": -5.5491296,
+    "height": 254,
+    "power": 0.006,
+    "coverage": 3
+  },
+  {
+    "name": "Taynuilt",
+    "lat": 56.431083,
+    "lng": -5.2565069,
+    "height": 73,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Tayvallich",
+    "lat": 56.018862,
+    "lng": -5.6278114,
+    "height": 68,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Angus",
+    "lat": 56.555079,
+    "lng": -2.9861255,
+    "height": 547,
+    "power": 20,
+    "coverage": 45
+  },
+  {
+    "name": "Auchtermuchty",
+    "lat": 56.270727,
+    "lng": -3.2707458,
+    "height": 130,
+    "power": 0.02,
+    "coverage": 4.5
+  },
+  {
+    "name": "Balmullo",
+    "lat": 56.381654,
+    "lng": -2.9311131,
+    "height": 90,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Balnaguard",
+    "lat": 56.640041,
+    "lng": -3.703837,
+    "height": 193,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Blair Atholl",
+    "lat": 56.77061,
+    "lng": -3.8112041,
+    "height": 427,
+    "power": 0.0084,
+    "coverage": 3.4
+  },
+  {
+    "name": "Carie",
+    "lat": 56.68595,
+    "lng": -4.2626831,
+    "height": 254,
+    "power": 0.02,
+    "coverage": 4.5
+  },
+  {
+    "name": "Crieff",
+    "lat": 56.357248,
+    "lng": -3.9202334,
+    "height": 267,
+    "power": 0.05,
+    "coverage": 6.1
+  },
+  {
+    "name": "Cupar",
+    "lat": 56.313493,
+    "lng": -3.0073708,
+    "height": 79,
+    "power": 0.004,
+    "coverage": 2.6
+  },
+  {
+    "name": "Dundee Menzieshill",
+    "lat": 56.467958,
+    "lng": -3.0270401,
+    "height": 135,
+    "power": 0.005,
+    "coverage": 2.8
+  },
+  {
+    "name": "Dunkeld",
+    "lat": 56.55603,
+    "lng": -3.552812,
+    "height": 291,
+    "power": 0.016,
+    "coverage": 4.2
+  },
+  {
+    "name": "Dunkeld Town",
+    "lat": 56.568727,
+    "lng": -3.5932077,
+    "height": 85,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Grandtully",
+    "lat": 56.653522,
+    "lng": -3.7680646,
+    "height": 128,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Kenmore",
+    "lat": 56.600611,
+    "lng": -3.998544,
+    "height": 468,
+    "power": 0.024,
+    "coverage": 4.8
+  },
+  {
+    "name": "Killin HP",
+    "lat": 56.454511,
+    "lng": -4.2695102,
+    "height": 439,
+    "power": 0.004,
+    "coverage": 2.6
+  },
+  {
+    "name": "Killin VP",
+    "lat": 56.454511,
+    "lng": -4.2695102,
+    "height": 446,
+    "power": 0.0234,
+    "coverage": 4.7
+  },
+  {
+    "name": "Lindores",
+    "lat": 56.32944,
+    "lng": -3.2130191,
+    "height": 173,
+    "power": 0.0064,
+    "coverage": 3.1
+  },
+  {
+    "name": "Lochearnhead",
+    "lat": 56.375832,
+    "lng": -4.2768132,
+    "height": 150,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Methven",
+    "lat": 56.420608,
+    "lng": -3.5964116,
+    "height": 142,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Perth",
+    "lat": 56.375209,
+    "lng": -3.4444045,
+    "height": 172,
+    "power": 0.2,
+    "coverage": 9.7
+  },
+  {
+    "name": "Pitlochry",
+    "lat": 56.687333,
+    "lng": -3.759853,
+    "height": 439,
+    "power": 0.025,
+    "coverage": 4.8
+  },
+  {
+    "name": "St Fillans",
+    "lat": 56.396481,
+    "lng": -4.1676943,
+    "height": 215,
+    "power": 0.0126,
+    "coverage": 3.9
+  },
+  {
+    "name": "Strathallan",
+    "lat": 56.232744,
+    "lng": -3.8404276,
+    "height": 286,
+    "power": 0.0058,
+    "coverage": 3
+  },
+  {
+    "name": "Tay Bridge",
+    "lat": 56.444591,
+    "lng": -2.9250281,
+    "height": 148,
+    "power": 0.1,
+    "coverage": 7.7
+  },
+  {
+    "name": "Tummel Bridge",
+    "lat": 56.715454,
+    "lng": -4.0095349,
+    "height": 338,
+    "power": 0.02,
+    "coverage": 4.5
+  },
+  {
+    "name": "Bressay",
+    "lat": 60.129755,
+    "lng": -1.09647,
+    "height": 301,
+    "power": 2,
+    "coverage": 20.9
+  },
+  {
+    "name": "Baltasound",
+    "lat": 60.77603,
+    "lng": -0.83597782,
+    "height": 145,
+    "power": 0.036,
+    "coverage": 5.5
+  },
+  {
+    "name": "Collafirth Hill",
+    "lat": 60.533329,
+    "lng": -1.391391,
+    "height": 276,
+    "power": 0.8,
+    "coverage": 15.4
+  },
+  {
+    "name": "Fetlar",
+    "lat": 60.601517,
+    "lng": -0.92663586,
+    "height": 139,
+    "power": 0.25,
+    "coverage": 10.4
+  },
+  {
+    "name": "Fitful Head",
+    "lat": 59.905568,
+    "lng": -1.3821721,
+    "height": 300,
+    "power": 0.0188,
+    "coverage": 4.4
+  },
+  {
+    "name": "Scalloway",
+    "lat": 60.140332,
+    "lng": -1.2845124,
+    "height": 100,
+    "power": 0.058,
+    "coverage": 6.4
+  },
+  {
+    "name": "Swinister",
+    "lat": 60.435721,
+    "lng": -1.2020895,
+    "height": 163,
+    "power": 0.32,
+    "coverage": 11.3
+  },
+  {
+    "name": "Voe",
+    "lat": 60.353182,
+    "lng": -1.2602847,
+    "height": 61,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Weisdale",
+    "lat": 60.244116,
+    "lng": -1.3158457,
+    "height": 275,
+    "power": 0.012,
+    "coverage": 3.8
+  },
+  {
+    "name": "Durris",
+    "lat": 57.000014,
+    "lng": -2.3899442,
+    "height": 639,
+    "power": 100,
+    "coverage": 77
+  },
+  {
+    "name": "Balgownie",
+    "lat": 57.184806,
+    "lng": -2.1220711,
+    "height": 106,
+    "power": 0.008,
+    "coverage": 3.3
+  },
+  {
+    "name": "Banff",
+    "lat": 57.644582,
+    "lng": -2.525322,
+    "height": 118,
+    "power": 0.056,
+    "coverage": 6.3
+  },
+  {
+    "name": "Boddam",
+    "lat": 57.464147,
+    "lng": -1.7912881,
+    "height": 102,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Braemar",
+    "lat": 56.998816,
+    "lng": -3.4699673,
+    "height": 556,
+    "power": 0.003,
+    "coverage": 2.4
+  },
+  {
+    "name": "Brechin",
+    "lat": 56.72162,
+    "lng": -2.6478344,
+    "height": 56,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Ellon",
+    "lat": 57.37052,
+    "lng": -2.0711461,
+    "height": 63,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Gartley Moor",
+    "lat": 57.381653,
+    "lng": -2.7562332,
+    "height": 466,
+    "power": 0.44,
+    "coverage": 12.6
+  },
+  {
+    "name": "Gourdon",
+    "lat": 56.829254,
+    "lng": -2.2850981,
+    "height": 28,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Lumphanan",
+    "lat": 57.133328,
+    "lng": -2.6832614,
+    "height": 231,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Peterhead",
+    "lat": 57.4976,
+    "lng": -1.8156235,
+    "height": 92,
+    "power": 0.1,
+    "coverage": 7.7
+  },
+  {
+    "name": "Rosehearty",
+    "lat": 57.686493,
+    "lng": -2.1128554,
+    "height": 111,
+    "power": 0.4,
+    "coverage": 12.2
+  },
+  {
+    "name": "Tomintoul",
+    "lat": 57.271054,
+    "lng": -3.3895894,
+    "height": 488,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Tullich",
+    "lat": 57.072419,
+    "lng": -3.025872,
+    "height": 501,
+    "power": 0.014,
+    "coverage": 4
+  },
+  {
+    "name": "Eitshal",
+    "lat": 58.179179,
+    "lng": -6.5849778,
+    "height": 368,
+    "power": 20,
+    "coverage": 45
+  },
+  {
+    "name": "Badachro",
+    "lat": 57.701665,
+    "lng": -5.7291928,
+    "height": 43,
+    "power": 0.007,
+    "coverage": 3.2
+  },
+  {
+    "name": "Ness Of Lewis",
+    "lat": 58.461562,
+    "lng": -6.2308121,
+    "height": 128,
+    "power": 0.0064,
+    "coverage": 3.1
+  },
+  {
+    "name": "Ullapool",
+    "lat": 57.892497,
+    "lng": -5.1357037,
+    "height": 158,
+    "power": 0.0156,
+    "coverage": 4.1
+  },
+  {
+    "name": "Poolewe",
+    "lat": 57.777228,
+    "lng": -5.6003463,
+    "height": 69,
+    "power": 0.0032,
+    "coverage": 2.4
+  },
+  {
+    "name": "Lochinver",
+    "lat": 58.147383,
+    "lng": -5.2436116,
+    "height": 23,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Kinlochbervie HP",
+    "lat": 58.45607,
+    "lng": -5.0439501,
+    "height": 53,
+    "power": 0.0068,
+    "coverage": 3.1
+  },
+  {
+    "name": "Kinlochbervie VP",
+    "lat": 58.45607,
+    "lng": -5.0439501,
+    "height": 53,
+    "power": 0.0316,
+    "coverage": 5.2
+  },
+  {
+    "name": "Staffin",
+    "lat": 57.619562,
+    "lng": -6.1966722,
+    "height": 107,
+    "power": 0.0088,
+    "coverage": 3.4
+  },
+  {
+    "name": "Keelylang Hill",
+    "lat": 58.975036,
+    "lng": -3.0849787,
+    "height": 270,
+    "power": 20,
+    "coverage": 45
+  },
+  {
+    "name": "Burgar Hill HP",
+    "lat": 59.116985,
+    "lng": -3.1523412,
+    "height": 182,
+    "power": 0.0025,
+    "coverage": 2.3
+  },
+  {
+    "name": "Burgar Hill VP",
+    "lat": 59.116985,
+    "lng": -3.1523412,
+    "height": 182,
+    "power": 0.0035,
+    "coverage": 2.5
+  },
+  {
+    "name": "Pierowall",
+    "lat": 59.3304,
+    "lng": -2.9727348,
+    "height": 46,
+    "power": 0.01,
+    "coverage": 3.6
+  },
+  {
+    "name": "Knockmore",
+    "lat": 57.532332,
+    "lng": -3.1351272,
+    "height": 466,
+    "power": 20,
+    "coverage": 45
+  },
+  {
+    "name": "Aviemore",
+    "lat": 57.191728,
+    "lng": -3.7551492,
+    "height": 457,
+    "power": 0.0026,
+    "coverage": 2.3
+  },
+  {
+    "name": "Avoch",
+    "lat": 57.571327,
+    "lng": -4.1708738,
+    "height": 102,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Balblair Wood",
+    "lat": 57.924519,
+    "lng": -4.3769087,
+    "height": 253,
+    "power": 0.0263,
+    "coverage": 4.9
+  },
+  {
+    "name": "Craigellachie",
+    "lat": 57.483365,
+    "lng": -3.2316818,
+    "height": 227,
+    "power": 0.014,
+    "coverage": 4
+  },
+  {
+    "name": "Grantown",
+    "lat": 57.319921,
+    "lng": -3.6571324,
+    "height": 419,
+    "power": 0.07,
+    "coverage": 6.8
+  },
+  {
+    "name": "Kingussie",
+    "lat": 57.061331,
+    "lng": -4.0305035,
+    "height": 373,
+    "power": 0.02,
+    "coverage": 4.5
+  },
+  {
+    "name": "Lairg",
+    "lat": 58.016779,
+    "lng": -4.4160443,
+    "height": 167,
+    "power": 0.0026,
+    "coverage": 2.3
+  },
+  {
+    "name": "Rosemarkie",
+    "lat": 57.633224,
+    "lng": -4.0752322,
+    "height": 328,
+    "power": 20,
+    "coverage": 45
+  },
+  {
+    "name": "Auchmore Wood",
+    "lat": 57.51605,
+    "lng": -4.5332888,
+    "height": 237,
+    "power": 0.02,
+    "coverage": 4.5
+  },
+  {
+    "name": "Cromarty",
+    "lat": 57.681841,
+    "lng": -4.0359097,
+    "height": 21,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Fodderty",
+    "lat": 57.611301,
+    "lng": -4.4927006,
+    "height": 224,
+    "power": 0.024,
+    "coverage": 4.8
+  },
+  {
+    "name": "Fort Augustus",
+    "lat": 57.106014,
+    "lng": -4.7086923,
+    "height": 341,
+    "power": 0.0022,
+    "coverage": 2.2
+  },
+  {
+    "name": "Glen Convinth",
+    "lat": 57.418529,
+    "lng": -4.4892389,
+    "height": 168,
+    "power": 0.007,
+    "coverage": 3.2
+  },
+  {
+    "name": "Glen Urquhart HP",
+    "lat": 57.32962,
+    "lng": -4.5888904,
+    "height": 242,
+    "power": 0.001,
+    "coverage": 1.7
+  },
+  {
+    "name": "Glen Urquhart VP",
+    "lat": 57.32962,
+    "lng": -4.5888904,
+    "height": 246,
+    "power": 0.018,
+    "coverage": 4.3
+  },
+  {
+    "name": "Inverness",
+    "lat": 57.473625,
+    "lng": -4.2242825,
+    "height": 40,
+    "power": 0.0066,
+    "coverage": 3.1
+  },
+  {
+    "name": "Tomatin",
+    "lat": 57.334457,
+    "lng": -3.9584958,
+    "height": 422,
+    "power": 0.0026,
+    "coverage": 2.3
+  },
+  {
+    "name": "Tomich",
+    "lat": 57.307441,
+    "lng": -4.8138336,
+    "height": 137,
+    "power": 0.0028,
+    "coverage": 2.3
+  },
+  {
+    "name": "Tomich Link",
+    "lat": 57.298126,
+    "lng": -4.7882185,
+    "height": 329,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Wester Erchite",
+    "lat": 57.34452,
+    "lng": -4.3662165,
+    "height": 155,
+    "power": 0.0032,
+    "coverage": 2.4
+  },
+  {
+    "name": "Rumster Forest",
+    "lat": 58.328036,
+    "lng": -3.371414,
+    "height": 454,
+    "power": 20,
+    "coverage": 45
+  },
+  {
+    "name": "Ben Tongue",
+    "lat": 58.494981,
+    "lng": -4.3957916,
+    "height": 328,
+    "power": 0.007,
+    "coverage": 3.2
+  },
+  {
+    "name": "Durness",
+    "lat": 58.56429,
+    "lng": -4.7356848,
+    "height": 73,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Melvich",
+    "lat": 58.547737,
+    "lng": -3.9248857,
+    "height": 159,
+    "power": 0.011,
+    "coverage": 3.7
+  },
+  {
+    "name": "Thurso",
+    "lat": 58.584835,
+    "lng": -3.5157904,
+    "height": 49,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Skriaig",
+    "lat": 57.38599,
+    "lng": -6.2431737,
+    "height": 449,
+    "power": 0.32,
+    "coverage": 11.3
+  },
+  {
+    "name": "Ardintoul",
+    "lat": 57.256917,
+    "lng": -5.5961637,
+    "height": 23,
+    "power": 0.0094,
+    "coverage": 3.5
+  },
+  {
+    "name": "Attadale",
+    "lat": 57.395682,
+    "lng": -5.4565703,
+    "height": 14,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Borve",
+    "lat": 56.986006,
+    "lng": -7.5194398,
+    "height": 16,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Bruernish",
+    "lat": 56.995339,
+    "lng": -7.4049042,
+    "height": 36,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Clettraval",
+    "lat": 57.616889,
+    "lng": -7.4436373,
+    "height": 173,
+    "power": 0.4,
+    "coverage": 12.2
+  },
+  {
+    "name": "Daliburgh",
+    "lat": 57.169672,
+    "lng": -7.4025622,
+    "height": 53,
+    "power": 0.006,
+    "coverage": 3
+  },
+  {
+    "name": "Duncraig",
+    "lat": 57.330193,
+    "lng": -5.6116399,
+    "height": 355,
+    "power": 0.0328,
+    "coverage": 5.3
+  },
+  {
+    "name": "Inverarish",
+    "lat": 57.333561,
+    "lng": -6.0608586,
+    "height": 77,
+    "power": 0.008,
+    "coverage": 3.3
+  },
+  {
+    "name": "Kilbride South Uist",
+    "lat": 57.109214,
+    "lng": -7.3666102,
+    "height": 47,
+    "power": 0.026,
+    "coverage": 4.9
+  },
+  {
+    "name": "Kylerhea",
+    "lat": 57.220786,
+    "lng": -5.7252287,
+    "height": 304,
+    "power": 0.01,
+    "coverage": 3.6
+  },
+  {
+    "name": "Lochmaddy HP",
+    "lat": 57.641497,
+    "lng": -7.1115472,
+    "height": 55,
+    "power": 0.04,
+    "coverage": 5.7
+  },
+  {
+    "name": "Lochmaddy VP",
+    "lat": 57.641497,
+    "lng": -7.1115472,
+    "height": 55,
+    "power": 0.004,
+    "coverage": 2.6
+  },
+  {
+    "name": "Penifiler",
+    "lat": 57.395559,
+    "lng": -6.1803193,
+    "height": 90,
+    "power": 0.008,
+    "coverage": 3.3
+  },
+  {
+    "name": "Scoval HP",
+    "lat": 57.465358,
+    "lng": -6.7023767,
+    "height": 258,
+    "power": 0.132,
+    "coverage": 8.4
+  },
+  {
+    "name": "Scoval VP",
+    "lat": 57.465358,
+    "lng": -6.7023767,
+    "height": 290,
+    "power": 0.032,
+    "coverage": 5.3
+  },
+  {
+    "name": "Tarbert Harris",
+    "lat": 57.899762,
+    "lng": -6.8048867,
+    "height": 58,
+    "power": 0.0188,
+    "coverage": 4.4
+  },
+  {
+    "name": "Uig",
+    "lat": 57.589921,
+    "lng": -6.3808132,
+    "height": 96,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Bilsdale",
+    "lat": 54.358516,
+    "lng": -1.150401,
+    "height": 676,
+    "power": 100,
+    "coverage": 77
+  },
+  {
+    "name": "Aislaby",
+    "lat": 54.466347,
+    "lng": -0.67002285,
+    "height": 152,
+    "power": 0.0076,
+    "coverage": 3.3
+  },
+  {
+    "name": "Bainbridge",
+    "lat": 54.299001,
+    "lng": -2.1010708,
+    "height": 332,
+    "power": 0.0076,
+    "coverage": 3.3
+  },
+  {
+    "name": "Castleton",
+    "lat": 54.459963,
+    "lng": -0.93248595,
+    "height": 207,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Eston Nab",
+    "lat": 54.555852,
+    "lng": -1.1217202,
+    "height": 262,
+    "power": 0.01,
+    "coverage": 3.6
+  },
+  {
+    "name": "Grinton Lodge",
+    "lat": 54.373884,
+    "lng": -1.927617,
+    "height": 274,
+    "power": 0.005,
+    "coverage": 2.8
+  },
+  {
+    "name": "Guisborough",
+    "lat": 54.543362,
+    "lng": -1.0856626,
+    "height": 213,
+    "power": 0.02,
+    "coverage": 4.5
+  },
+  {
+    "name": "Limber Hill",
+    "lat": 54.437358,
+    "lng": -0.78490453,
+    "height": 190,
+    "power": 0.008,
+    "coverage": 3.3
+  },
+  {
+    "name": "Peterlee",
+    "lat": 54.762048,
+    "lng": -1.307483,
+    "height": 79,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Ravenscar",
+    "lat": 54.397022,
+    "lng": -0.50606116,
+    "height": 310,
+    "power": 0.066,
+    "coverage": 6.7
+  },
+  {
+    "name": "Romaldkirk",
+    "lat": 54.59318,
+    "lng": -2.0417527,
+    "height": 380,
+    "power": 0.0116,
+    "coverage": 3.8
+  },
+  {
+    "name": "Rookhope",
+    "lat": 54.786254,
+    "lng": -2.1153471,
+    "height": 413,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Rosedale Abbey",
+    "lat": 54.359875,
+    "lng": -0.87675745,
+    "height": 256,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Skinningrove",
+    "lat": 54.563252,
+    "lng": -0.89514692,
+    "height": 85,
+    "power": 0.006,
+    "coverage": 3
+  },
+  {
+    "name": "West Burton",
+    "lat": 54.287621,
+    "lng": -1.955418,
+    "height": 289,
+    "power": 0.0024,
+    "coverage": 2.2
+  },
+  {
+    "name": "Whitby Business Park",
+    "lat": 54.473235,
+    "lng": -0.59557082,
+    "height": 106,
+    "power": 0.1,
+    "coverage": 7.7
+  },
+  {
+    "name": "Chatton",
+    "lat": 55.531849,
+    "lng": -1.8342606,
+    "height": 349,
+    "power": 20,
+    "coverage": 45
+  },
+  {
+    "name": "Berwick",
+    "lat": 55.785788,
+    "lng": -2.0326623,
+    "height": 157,
+    "power": 0.038,
+    "coverage": 5.6
+  },
+  {
+    "name": "Rothbury",
+    "lat": 55.291768,
+    "lng": -1.9517865,
+    "height": 318,
+    "power": 0.01,
+    "coverage": 3.6
+  },
+  {
+    "name": "Wooler",
+    "lat": 55.542293,
+    "lng": -2.0188304,
+    "height": 162,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Fenham",
+    "lat": 54.977971,
+    "lng": -1.6629665,
+    "height": 171,
+    "power": 0.4,
+    "coverage": 12.2
+  },
+  {
+    "name": "Blaydon Burn",
+    "lat": 54.958661,
+    "lng": -1.7407407,
+    "height": 93,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Felling",
+    "lat": 54.948295,
+    "lng": -1.5706339,
+    "height": 137,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Pontop Pike",
+    "lat": 54.868859,
+    "lng": -1.7712332,
+    "height": 450,
+    "power": 100,
+    "coverage": 77
+  },
+  {
+    "name": "Allenheads",
+    "lat": 54.816694,
+    "lng": -2.2505068,
+    "height": 468,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Alston",
+    "lat": 54.824762,
+    "lng": -2.4203661,
+    "height": 542,
+    "power": 0.08,
+    "coverage": 7.1
+  },
+  {
+    "name": "Bellingham",
+    "lat": 55.124984,
+    "lng": -2.2635684,
+    "height": 272,
+    "power": 0.02,
+    "coverage": 4.5
+  },
+  {
+    "name": "Byrness",
+    "lat": 55.308194,
+    "lng": -2.3715904,
+    "height": 355,
+    "power": 0.02,
+    "coverage": 4.5
+  },
+  {
+    "name": "Catton Beacon",
+    "lat": 54.925997,
+    "lng": -2.2788045,
+    "height": 370,
+    "power": 0.028,
+    "coverage": 5
+  },
+  {
+    "name": "Durham",
+    "lat": 54.775195,
+    "lng": -1.5906562,
+    "height": 114,
+    "power": 0.003,
+    "coverage": 2.4
+  },
+  {
+    "name": "Esh",
+    "lat": 54.79437,
+    "lng": -1.6935782,
+    "height": 163,
+    "power": 0.0024,
+    "coverage": 2.2
+  },
+  {
+    "name": "Falstone",
+    "lat": 55.170856,
+    "lng": -2.4360905,
+    "height": 176,
+    "power": 0.004,
+    "coverage": 2.6
+  },
+  {
+    "name": "Haydon Bridge",
+    "lat": 54.961624,
+    "lng": -2.2988855,
+    "height": 260,
+    "power": 0.02,
+    "coverage": 4.5
+  },
+  {
+    "name": "Hedleyhope",
+    "lat": 54.752712,
+    "lng": -1.74967,
+    "height": 285,
+    "power": 0.004,
+    "coverage": 2.6
+  },
+  {
+    "name": "Humshaugh",
+    "lat": 55.03433,
+    "lng": -2.148603,
+    "height": 159,
+    "power": 0.0118,
+    "coverage": 3.8
+  },
+  {
+    "name": "Ireshopeburn",
+    "lat": 54.73768,
+    "lng": -2.2158501,
+    "height": 434,
+    "power": 0.0022,
+    "coverage": 2.2
+  },
+  {
+    "name": "Kielder",
+    "lat": 55.264828,
+    "lng": -2.5907057,
+    "height": 557,
+    "power": 0.0054,
+    "coverage": 2.9
+  },
+  {
+    "name": "Morpeth",
+    "lat": 55.17188,
+    "lng": -1.6591359,
+    "height": 106,
+    "power": 0.0088,
+    "coverage": 3.4
+  },
+  {
+    "name": "Newton",
+    "lat": 54.982469,
+    "lng": -1.9455932,
+    "height": 212,
+    "power": 0.4,
+    "coverage": 12.2
+  },
+  {
+    "name": "Seaham",
+    "lat": 54.829728,
+    "lng": -1.3757531,
+    "height": 151,
+    "power": 0.1,
+    "coverage": 7.7
+  },
+  {
+    "name": "Shotleyfield",
+    "lat": 54.873796,
+    "lng": -1.8994564,
+    "height": 247,
+    "power": 0.04,
+    "coverage": 5.7
+  },
+  {
+    "name": "Staithes",
+    "lat": 54.559948,
+    "lng": -0.79378929,
+    "height": 45,
+    "power": 0.004,
+    "coverage": 2.6
+  },
+  {
+    "name": "Sunderland",
+    "lat": 54.885706,
+    "lng": -1.3918795,
+    "height": 106,
+    "power": 0.006,
+    "coverage": 3
+  },
+  {
+    "name": "Wall",
+    "lat": 55.002884,
+    "lng": -2.1437965,
+    "height": 144,
+    "power": 0.0042,
+    "coverage": 2.7
+  },
+  {
+    "name": "Weardale",
+    "lat": 54.741191,
+    "lng": -1.9619138,
+    "height": 451,
+    "power": 0.2,
+    "coverage": 9.7
+  },
+  {
+    "name": "Whitaside",
+    "lat": 54.363836,
+    "lng": -2.0325923,
+    "height": 371,
+    "power": 0.0025,
+    "coverage": 2.3
+  },
+  {
+    "name": "Aberdare",
+    "lat": 51.702018,
+    "lng": -3.3985311,
+    "height": 333,
+    "power": 0.1,
+    "coverage": 7.7
+  },
+  {
+    "name": "Cwmaman",
+    "lat": 51.683716,
+    "lng": -3.4470047,
+    "height": 211,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Fernhill",
+    "lat": 51.684424,
+    "lng": -3.4034857,
+    "height": 175,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Penrhiwceiber",
+    "lat": 51.660846,
+    "lng": -3.3515754,
+    "height": 160,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Blaenplwyf",
+    "lat": 52.360536,
+    "lng": -4.1025816,
+    "height": 331,
+    "power": 40,
+    "coverage": 56.7
+  },
+  {
+    "name": "Aberystwyth",
+    "lat": 52.417689,
+    "lng": -4.0791241,
+    "height": 43,
+    "power": 0.04,
+    "coverage": 5.7
+  },
+  {
+    "name": "Afon Dyfi",
+    "lat": 52.640289,
+    "lng": -3.7098223,
+    "height": 116,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Beddgelert",
+    "lat": 53.006888,
+    "lng": -4.1143453,
+    "height": 144,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Beddgelert Link",
+    "lat": 53.019996,
+    "lng": -4.1002254,
+    "height": 193,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Bow Street",
+    "lat": 52.441094,
+    "lng": -4.0257861,
+    "height": 54,
+    "power": 0.0172,
+    "coverage": 4.3
+  },
+  {
+    "name": "Corris",
+    "lat": 52.643801,
+    "lng": -3.8355971,
+    "height": 303,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Cwrtnewydd",
+    "lat": 52.105951,
+    "lng": -4.2120787,
+    "height": 217,
+    "power": 0.004,
+    "coverage": 2.6
+  },
+  {
+    "name": "Dolybont",
+    "lat": 52.481552,
+    "lng": -4.0207233,
+    "height": 127,
+    "power": 0.02,
+    "coverage": 4.5
+  },
+  {
+    "name": "Machynlleth",
+    "lat": 52.586011,
+    "lng": -3.885732,
+    "height": 132,
+    "power": 0.004,
+    "coverage": 2.6
+  },
+  {
+    "name": "Penrhyn Coch",
+    "lat": 52.440421,
+    "lng": -4.0125133,
+    "height": 176,
+    "power": 0.0144,
+    "coverage": 4
+  },
+  {
+    "name": "Trefilan",
+    "lat": 52.178696,
+    "lng": -4.1040841,
+    "height": 278,
+    "power": 0.0172,
+    "coverage": 4.3
+  },
+  {
+    "name": "Ynys Pennal",
+    "lat": 52.566659,
+    "lng": -3.937135,
+    "height": 26,
+    "power": 0.008,
+    "coverage": 3.3
+  },
+  {
+    "name": "Carmel",
+    "lat": 51.818422,
+    "lng": -4.0662129,
+    "height": 411,
+    "power": 20,
+    "coverage": 45
+  },
+  {
+    "name": "Abercraf",
+    "lat": 51.798142,
+    "lng": -3.6671841,
+    "height": 316,
+    "power": 0.025,
+    "coverage": 4.8
+  },
+  {
+    "name": "Brechfa",
+    "lat": 51.939268,
+    "lng": -4.1765143,
+    "height": 296,
+    "power": 0.0036,
+    "coverage": 2.5
+  },
+  {
+    "name": "Bronwydd Arms",
+    "lat": 51.889974,
+    "lng": -4.3047839,
+    "height": 96,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Builth Wells",
+    "lat": 52.165292,
+    "lng": -3.4106742,
+    "height": 255,
+    "power": 0.0052,
+    "coverage": 2.9
+  },
+  {
+    "name": "Cilycwm",
+    "lat": 52.050723,
+    "lng": -3.7836201,
+    "height": 218,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Cwm Twrch",
+    "lat": 51.780484,
+    "lng": -3.7975845,
+    "height": 159,
+    "power": 0.0032,
+    "coverage": 2.4
+  },
+  {
+    "name": "Cwmgors",
+    "lat": 51.794782,
+    "lng": -3.8780572,
+    "height": 202,
+    "power": 0.0052,
+    "coverage": 2.9
+  },
+  {
+    "name": "Erwood",
+    "lat": 52.076683,
+    "lng": -3.3295191,
+    "height": 234,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Greenhill",
+    "lat": 51.674559,
+    "lng": -5.002614,
+    "height": 119,
+    "power": 0.03,
+    "coverage": 5.2
+  },
+  {
+    "name": "Llandrindod Wells",
+    "lat": 52.26106,
+    "lng": -3.4393542,
+    "height": 513,
+    "power": 0.4,
+    "coverage": 12.2
+  },
+  {
+    "name": "Llanelli",
+    "lat": 51.699972,
+    "lng": -4.1573378,
+    "height": 143,
+    "power": 0.02,
+    "coverage": 4.5
+  },
+  {
+    "name": "Llansawel",
+    "lat": 52.012371,
+    "lng": -4.0151012,
+    "height": 170,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Llanwrtyd Wells",
+    "lat": 52.096147,
+    "lng": -3.6074706,
+    "height": 268,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Penderyn",
+    "lat": 51.767399,
+    "lng": -3.5137355,
+    "height": 310,
+    "power": 0.005,
+    "coverage": 2.8
+  },
+  {
+    "name": "Rhayader",
+    "lat": 52.320497,
+    "lng": -3.4895546,
+    "height": 396,
+    "power": 0.038,
+    "coverage": 5.6
+  },
+  {
+    "name": "Talley",
+    "lat": 51.980543,
+    "lng": -3.9830919,
+    "height": 224,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Tenby",
+    "lat": 51.662122,
+    "lng": -4.7351176,
+    "height": 97,
+    "power": 0.04,
+    "coverage": 5.7
+  },
+  {
+    "name": "Ystalyfera",
+    "lat": 51.755643,
+    "lng": -3.7695032,
+    "height": 370,
+    "power": 0.01,
+    "coverage": 3.6
+  },
+  {
+    "name": "Kilvey Hill",
+    "lat": 51.62918,
+    "lng": -3.920334,
+    "height": 244,
+    "power": 2,
+    "coverage": 20.9
+  },
+  {
+    "name": "Alltwen",
+    "lat": 51.719274,
+    "lng": -3.8594351,
+    "height": 158,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Briton Ferry",
+    "lat": 51.645746,
+    "lng": -3.8116169,
+    "height": 90,
+    "power": 0.004,
+    "coverage": 2.6
+  },
+  {
+    "name": "Burry Port",
+    "lat": 51.69491,
+    "lng": -4.2450771,
+    "height": 93,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Cilfrew",
+    "lat": 51.672868,
+    "lng": -3.7726379,
+    "height": 114,
+    "power": 0.003,
+    "coverage": 2.4
+  },
+  {
+    "name": "Craig Cefn Parc",
+    "lat": 51.70131,
+    "lng": -3.908626,
+    "height": 179,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Efail Fach",
+    "lat": 51.64795,
+    "lng": -3.7553318,
+    "height": 176,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Mynydd Emroch",
+    "lat": 51.596577,
+    "lng": -3.7690875,
+    "height": 205,
+    "power": 0.018,
+    "coverage": 4.3
+  },
+  {
+    "name": "Neath Abbey HP",
+    "lat": 51.666404,
+    "lng": -3.836301,
+    "height": 96,
+    "power": 0.01,
+    "coverage": 3.6
+  },
+  {
+    "name": "Neath Abbey VP",
+    "lat": 51.666404,
+    "lng": -3.836301,
+    "height": 96,
+    "power": 0.01,
+    "coverage": 3.6
+  },
+  {
+    "name": "Pontardawe",
+    "lat": 51.718385,
+    "lng": -3.8359456,
+    "height": 204,
+    "power": 0.025,
+    "coverage": 4.8
+  },
+  {
+    "name": "Rheola",
+    "lat": 51.741672,
+    "lng": -3.679878,
+    "height": 457,
+    "power": 0.02,
+    "coverage": 4.5
+  },
+  {
+    "name": "Llanddona",
+    "lat": 53.306926,
+    "lng": -4.1283964,
+    "height": 255,
+    "power": 20,
+    "coverage": 45
+  },
+  {
+    "name": "Amlwch",
+    "lat": 53.401584,
+    "lng": -4.3539606,
+    "height": 93,
+    "power": 0.016,
+    "coverage": 4.2
+  },
+  {
+    "name": "Arfon North",
+    "lat": 53.019865,
+    "lng": -4.2734759,
+    "height": 611,
+    "power": 8,
+    "coverage": 33.2
+  },
+  {
+    "name": "Arfon South",
+    "lat": 53.019865,
+    "lng": -4.2734759,
+    "height": 611,
+    "power": 2,
+    "coverage": 20.9
+  },
+  {
+    "name": "Bethesda",
+    "lat": 53.175678,
+    "lng": -4.0766999,
+    "height": 197,
+    "power": 0.005,
+    "coverage": 2.8
+  },
+  {
+    "name": "Bethesda North",
+    "lat": 53.184316,
+    "lng": -4.055565,
+    "height": 251,
+    "power": 0.016,
+    "coverage": 4.2
+  },
+  {
+    "name": "Betws y Coed",
+    "lat": 53.108361,
+    "lng": -3.757171,
+    "height": 354,
+    "power": 0.1,
+    "coverage": 7.7
+  },
+  {
+    "name": "Caergybi",
+    "lat": 53.30316,
+    "lng": -4.6322251,
+    "height": 30,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Caernarfon",
+    "lat": 53.141676,
+    "lng": -4.2649538,
+    "height": 28,
+    "power": 0.005,
+    "coverage": 2.8
+  },
+  {
+    "name": "Cemaes",
+    "lat": 53.405068,
+    "lng": -4.4489387,
+    "height": 56,
+    "power": 0.025,
+    "coverage": 4.8
+  },
+  {
+    "name": "Coed Derw",
+    "lat": 53.098331,
+    "lng": -3.8026167,
+    "height": 86,
+    "power": 0.004,
+    "coverage": 2.6
+  },
+  {
+    "name": "Conway",
+    "lat": 53.271622,
+    "lng": -3.8287971,
+    "height": 164,
+    "power": 0.4,
+    "coverage": 12.2
+  },
+  {
+    "name": "Deiniolen",
+    "lat": 53.137078,
+    "lng": -4.1292572,
+    "height": 359,
+    "power": 0.02,
+    "coverage": 4.5
+  },
+  {
+    "name": "Dolwyddelan",
+    "lat": 53.057751,
+    "lng": -3.8803091,
+    "height": 222,
+    "power": 0.0022,
+    "coverage": 2.2
+  },
+  {
+    "name": "Ffestiniog",
+    "lat": 52.934187,
+    "lng": -3.9218187,
+    "height": 358,
+    "power": 0.24,
+    "coverage": 10.3
+  },
+  {
+    "name": "Gronant",
+    "lat": 53.338988,
+    "lng": -3.3707162,
+    "height": 38,
+    "power": 0.008,
+    "coverage": 3.3
+  },
+  {
+    "name": "Llandecwyn",
+    "lat": 52.914434,
+    "lng": -4.0177696,
+    "height": 301,
+    "power": 0.06,
+    "coverage": 6.5
+  },
+  {
+    "name": "Llanengan",
+    "lat": 52.820788,
+    "lng": -4.5483399,
+    "height": 28,
+    "power": 0.01,
+    "coverage": 3.6
+  },
+  {
+    "name": "Maentwrog",
+    "lat": 52.946913,
+    "lng": -4.0005267,
+    "height": 39,
+    "power": 0.006,
+    "coverage": 3
+  },
+  {
+    "name": "Mochdre",
+    "lat": 53.291383,
+    "lng": -3.7582238,
+    "height": 64,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Morfa Nefyn",
+    "lat": 52.892766,
+    "lng": -4.5504811,
+    "height": 151,
+    "power": 0.028,
+    "coverage": 5
+  },
+  {
+    "name": "Prestatyn",
+    "lat": 53.328567,
+    "lng": -3.3933564,
+    "height": 105,
+    "power": 0.025,
+    "coverage": 4.8
+  },
+  {
+    "name": "Trefor B",
+    "lat": 52.982541,
+    "lng": -4.419748,
+    "height": 185,
+    "power": 0.0178,
+    "coverage": 4.3
+  },
+  {
+    "name": "Waunfawr",
+    "lat": 53.117649,
+    "lng": -4.1989817,
+    "height": 235,
+    "power": 0.026,
+    "coverage": 4.9
+  },
+  {
+    "name": "Long Mountain",
+    "lat": 52.64432,
+    "lng": -3.0865424,
+    "height": 455,
+    "power": 0.4,
+    "coverage": 12.2
+  },
+  {
+    "name": "Broneirion",
+    "lat": 52.484652,
+    "lng": -3.4475275,
+    "height": 268,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Carno",
+    "lat": 52.553226,
+    "lng": -3.5489032,
+    "height": 315,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Castle Caereinion",
+    "lat": 52.643676,
+    "lng": -3.2174754,
+    "height": 280,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Kerry",
+    "lat": 52.508441,
+    "lng": -3.2538117,
+    "height": 271,
+    "power": 0.0034,
+    "coverage": 2.5
+  },
+  {
+    "name": "Llanbrynmair",
+    "lat": 52.627813,
+    "lng": -3.6384143,
+    "height": 300,
+    "power": 0.004,
+    "coverage": 2.6
+  },
+  {
+    "name": "Llandinam",
+    "lat": 52.479561,
+    "lng": -3.3999454,
+    "height": 498,
+    "power": 0.05,
+    "coverage": 6.1
+  },
+  {
+    "name": "Llanfyllin",
+    "lat": 52.753363,
+    "lng": -3.2597973,
+    "height": 292,
+    "power": 0.025,
+    "coverage": 4.8
+  },
+  {
+    "name": "Llangadfan",
+    "lat": 52.671537,
+    "lng": -3.4498529,
+    "height": 312,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Llangurig UHF",
+    "lat": 52.401521,
+    "lng": -3.6182561,
+    "height": 370,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Llangynog",
+    "lat": 52.823057,
+    "lng": -3.4097762,
+    "height": 206,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Llanidloes",
+    "lat": 52.446946,
+    "lng": -3.5495855,
+    "height": 263,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Llanrhaeadr ym Mochnant",
+    "lat": 52.825175,
+    "lng": -3.2272934,
+    "height": 364,
+    "power": 0.0154,
+    "coverage": 4.1
+  },
+  {
+    "name": "Moel Y Sant",
+    "lat": 52.68633,
+    "lng": -3.2566831,
+    "height": 300,
+    "power": 0.023,
+    "coverage": 4.7
+  },
+  {
+    "name": "Tregynon",
+    "lat": 52.55733,
+    "lng": -3.3136191,
+    "height": 251,
+    "power": 0.007,
+    "coverage": 3.2
+  },
+  {
+    "name": "Moel y Parc",
+    "lat": 53.22096,
+    "lng": -3.3145203,
+    "height": 573,
+    "power": 20,
+    "coverage": 45
+  },
+  {
+    "name": "Bala",
+    "lat": 52.924978,
+    "lng": -3.5352176,
+    "height": 358,
+    "power": 0.04,
+    "coverage": 5.7
+  },
+  {
+    "name": "Betws yn Rhos",
+    "lat": 53.266481,
+    "lng": -3.6513388,
+    "height": 145,
+    "power": 0.0025,
+    "coverage": 2.3
+  },
+  {
+    "name": "Cefn Mawr",
+    "lat": 52.960628,
+    "lng": -3.0916292,
+    "height": 245,
+    "power": 0.05,
+    "coverage": 6.1
+  },
+  {
+    "name": "Cerrig y Drudion",
+    "lat": 53.020789,
+    "lng": -3.5916942,
+    "height": 404,
+    "power": 0.0064,
+    "coverage": 3.1
+  },
+  {
+    "name": "Corwen",
+    "lat": 52.977599,
+    "lng": -3.3711636,
+    "height": 286,
+    "power": 0.04,
+    "coverage": 5.7
+  },
+  {
+    "name": "Cyffylliog",
+    "lat": 53.111212,
+    "lng": -3.3999132,
+    "height": 258,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Glyn Ceiriog",
+    "lat": 52.939125,
+    "lng": -3.1872143,
+    "height": 343,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Glyndyfrdwy",
+    "lat": 52.977266,
+    "lng": -3.2548337,
+    "height": 194,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Llanarmon Yn Ial",
+    "lat": 53.114867,
+    "lng": -3.2056476,
+    "height": 364,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Llandderfel",
+    "lat": 52.910831,
+    "lng": -3.5025954,
+    "height": 319,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Llanddulas",
+    "lat": 53.29133,
+    "lng": -3.6356436,
+    "height": 38,
+    "power": 0.012,
+    "coverage": 3.8
+  },
+  {
+    "name": "Llangernyw",
+    "lat": 53.179943,
+    "lng": -3.6746486,
+    "height": 240,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Llangollen",
+    "lat": 52.970607,
+    "lng": -3.1853967,
+    "height": 333,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Llanuwchllyn",
+    "lat": 52.879023,
+    "lng": -3.6759568,
+    "height": 323,
+    "power": 0.006,
+    "coverage": 3
+  },
+  {
+    "name": "Pen y Banc",
+    "lat": 53.036584,
+    "lng": -3.3779564,
+    "height": 247,
+    "power": 0.004,
+    "coverage": 2.6
+  },
+  {
+    "name": "Penmaen Rhos",
+    "lat": 53.286869,
+    "lng": -3.684829,
+    "height": 153,
+    "power": 0.028,
+    "coverage": 5
+  },
+  {
+    "name": "Pontfadog",
+    "lat": 52.912495,
+    "lng": -3.1619483,
+    "height": 417,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Pwll Glas",
+    "lat": 53.076834,
+    "lng": -3.3165438,
+    "height": 141,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Storeton Wales",
+    "lat": 53.349865,
+    "lng": -3.031394,
+    "height": 109,
+    "power": 3,
+    "coverage": 23.9
+  },
+  {
+    "name": "Wrexham Rhos",
+    "lat": 53.076293,
+    "lng": -3.0449944,
+    "height": 257,
+    "power": 0.08,
+    "coverage": 7.1
+  },
+  {
+    "name": "Pontypool",
+    "lat": 51.685633,
+    "lng": -3.0360929,
+    "height": 294,
+    "power": 0.05,
+    "coverage": 6.1
+  },
+  {
+    "name": "Usk",
+    "lat": 51.701107,
+    "lng": -2.8926106,
+    "height": 70,
+    "power": 0.0036,
+    "coverage": 2.5
+  },
+  {
+    "name": "Preseli",
+    "lat": 51.944415,
+    "lng": -4.6610277,
+    "height": 563,
+    "power": 20,
+    "coverage": 45
+  },
+  {
+    "name": "Abergwynfi",
+    "lat": 51.661613,
+    "lng": -3.6114167,
+    "height": 406,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Broad Haven",
+    "lat": 51.77469,
+    "lng": -5.1019051,
+    "height": 67,
+    "power": 0.016,
+    "coverage": 4.2
+  },
+  {
+    "name": "Bronnant",
+    "lat": 52.279461,
+    "lng": -3.9597649,
+    "height": 232,
+    "power": 0.0032,
+    "coverage": 2.4
+  },
+  {
+    "name": "Croeserw",
+    "lat": 51.644502,
+    "lng": -3.6521461,
+    "height": 390,
+    "power": 0.024,
+    "coverage": 4.8
+  },
+  {
+    "name": "Cynwyl Elfed",
+    "lat": 51.92099,
+    "lng": -4.3641102,
+    "height": 122,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Dolgellau",
+    "lat": 52.749358,
+    "lng": -3.8868534,
+    "height": 124,
+    "power": 0.004,
+    "coverage": 2.6
+  },
+  {
+    "name": "Duffryn",
+    "lat": 51.647173,
+    "lng": -3.6856323,
+    "height": 217,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Ferryside",
+    "lat": 51.76914,
+    "lng": -4.3622514,
+    "height": 79,
+    "power": 0.025,
+    "coverage": 4.8
+  },
+  {
+    "name": "Fishguard",
+    "lat": 52.012603,
+    "lng": -4.9969354,
+    "height": 152,
+    "power": 0.025,
+    "coverage": 4.8
+  },
+  {
+    "name": "Glyncorrwg",
+    "lat": 51.677579,
+    "lng": -3.6338238,
+    "height": 318,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Haverfordwest",
+    "lat": 51.899116,
+    "lng": -4.8665251,
+    "height": 264,
+    "power": 0.1,
+    "coverage": 7.7
+  },
+  {
+    "name": "Llandyfriog",
+    "lat": 52.045325,
+    "lng": -4.410046,
+    "height": 144,
+    "power": 0.022,
+    "coverage": 4.6
+  },
+  {
+    "name": "Llandysul",
+    "lat": 52.044777,
+    "lng": -4.2980141,
+    "height": 163,
+    "power": 0.0152,
+    "coverage": 4.1
+  },
+  {
+    "name": "Llangranog",
+    "lat": 52.156907,
+    "lng": -4.4543774,
+    "height": 141,
+    "power": 0.008,
+    "coverage": 3.3
+  },
+  {
+    "name": "Llangybi",
+    "lat": 52.152436,
+    "lng": -4.0272695,
+    "height": 204,
+    "power": 0.0026,
+    "coverage": 2.3
+  },
+  {
+    "name": "Llwyn Onn",
+    "lat": 52.737511,
+    "lng": -4.0377307,
+    "height": 305,
+    "power": 0.028,
+    "coverage": 5
+  },
+  {
+    "name": "Mynydd Pencarreg",
+    "lat": 52.067414,
+    "lng": -4.0765238,
+    "height": 460,
+    "power": 0.024,
+    "coverage": 4.8
+  },
+  {
+    "name": "Newport Bay",
+    "lat": 52.037643,
+    "lng": -4.8206998,
+    "height": 102,
+    "power": 0.02,
+    "coverage": 4.5
+  },
+  {
+    "name": "Pembroke Dock",
+    "lat": 51.687054,
+    "lng": -4.9425228,
+    "height": 71,
+    "power": 0.01,
+    "coverage": 3.6
+  },
+  {
+    "name": "Pencader",
+    "lat": 52.00994,
+    "lng": -4.2580492,
+    "height": 215,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "St Davids",
+    "lat": 51.881685,
+    "lng": -5.2691361,
+    "height": 73,
+    "power": 0.016,
+    "coverage": 4.2
+  },
+  {
+    "name": "St Dogmaels",
+    "lat": 52.075139,
+    "lng": -4.6784315,
+    "height": 125,
+    "power": 0.003,
+    "coverage": 2.4
+  },
+  {
+    "name": "Trefin",
+    "lat": 51.935982,
+    "lng": -5.1313605,
+    "height": 155,
+    "power": 0.1,
+    "coverage": 7.7
+  },
+  {
+    "name": "Tregaron",
+    "lat": 52.227435,
+    "lng": -3.9248196,
+    "height": 247,
+    "power": 0.003,
+    "coverage": 2.4
+  },
+  {
+    "name": "Ystumtuen",
+    "lat": 52.398967,
+    "lng": -3.8533439,
+    "height": 362,
+    "power": 0.02,
+    "coverage": 4.5
+  },
+  {
+    "name": "Wenvoe",
+    "lat": 51.459405,
+    "lng": -3.2814169,
+    "height": 384,
+    "power": 100,
+    "coverage": 77
+  },
+  {
+    "name": "Aberbeeg",
+    "lat": 51.719676,
+    "lng": -3.1370481,
+    "height": 305,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Abercynon",
+    "lat": 51.648534,
+    "lng": -3.3113158,
+    "height": 191,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Abergavenny",
+    "lat": 51.807716,
+    "lng": -3.0977793,
+    "height": 481,
+    "power": 0.2,
+    "coverage": 9.7
+  },
+  {
+    "name": "Abertillery",
+    "lat": 51.714676,
+    "lng": -3.12404,
+    "height": 442,
+    "power": 0.056,
+    "coverage": 6.3
+  },
+  {
+    "name": "Abertridwr",
+    "lat": 51.589318,
+    "lng": -3.2667371,
+    "height": 299,
+    "power": 0.01,
+    "coverage": 3.6
+  },
+  {
+    "name": "Bargoed",
+    "lat": 51.7013,
+    "lng": -3.2381717,
+    "height": 335,
+    "power": 0.06,
+    "coverage": 6.5
+  },
+  {
+    "name": "Bedlinog",
+    "lat": 51.696323,
+    "lng": -3.2993853,
+    "height": 389,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Blackmill",
+    "lat": 51.568364,
+    "lng": -3.5446291,
+    "height": 220,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Blaenau Gwent",
+    "lat": 51.737288,
+    "lng": -3.1382144,
+    "height": 291,
+    "power": 0.0022,
+    "coverage": 2.2
+  },
+  {
+    "name": "Blaenavon",
+    "lat": 51.750979,
+    "lng": -3.0487424,
+    "height": 417,
+    "power": 0.03,
+    "coverage": 5.2
+  },
+  {
+    "name": "Blaenllechau",
+    "lat": 51.668688,
+    "lng": -3.4479718,
+    "height": 289,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Blaina",
+    "lat": 51.768128,
+    "lng": -3.1658004,
+    "height": 351,
+    "power": 0.02,
+    "coverage": 4.5
+  },
+  {
+    "name": "Brecon",
+    "lat": 51.949179,
+    "lng": -3.3771076,
+    "height": 271,
+    "power": 0.2,
+    "coverage": 9.7
+  },
+  {
+    "name": "Chepstow",
+    "lat": 51.642224,
+    "lng": -2.6597963,
+    "height": 56,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Clydach",
+    "lat": 51.805876,
+    "lng": -3.1212312,
+    "height": 335,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Clyro",
+    "lat": 52.081862,
+    "lng": -3.1628685,
+    "height": 264,
+    "power": 0.032,
+    "coverage": 5.3
+  },
+  {
+    "name": "Crickhowell",
+    "lat": 51.875423,
+    "lng": -3.1539022,
+    "height": 251,
+    "power": 0.03,
+    "coverage": 5.2
+  },
+  {
+    "name": "Crucorney",
+    "lat": 51.894228,
+    "lng": -2.9842087,
+    "height": 243,
+    "power": 0.0022,
+    "coverage": 2.2
+  },
+  {
+    "name": "Crumlin",
+    "lat": 51.679493,
+    "lng": -3.1173829,
+    "height": 348,
+    "power": 0.01,
+    "coverage": 3.6
+  },
+  {
+    "name": "Cwm Ffrwd Oer",
+    "lat": 51.706504,
+    "lng": -3.06508,
+    "height": 219,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Cwmafon",
+    "lat": 51.628607,
+    "lng": -3.7378248,
+    "height": 243,
+    "power": 0.014,
+    "coverage": 4
+  },
+  {
+    "name": "Cwmfelinfach",
+    "lat": 51.611457,
+    "lng": -3.1785342,
+    "height": 228,
+    "power": 0.004,
+    "coverage": 2.6
+  },
+  {
+    "name": "Deri",
+    "lat": 51.712349,
+    "lng": -3.2727776,
+    "height": 418,
+    "power": 0.01,
+    "coverage": 3.6
+  },
+  {
+    "name": "Dowlais",
+    "lat": 51.770622,
+    "lng": -3.3448527,
+    "height": 420,
+    "power": 0.01,
+    "coverage": 3.6
+  },
+  {
+    "name": "Ebbw Vale",
+    "lat": 51.771725,
+    "lng": -3.2189383,
+    "height": 504,
+    "power": 0.1,
+    "coverage": 7.7
+  },
+  {
+    "name": "Ebbw Vale South",
+    "lat": 51.758755,
+    "lng": -3.1948268,
+    "height": 296,
+    "power": 0.004,
+    "coverage": 2.6
+  },
+  {
+    "name": "Ferndale",
+    "lat": 51.662884,
+    "lng": -3.4373763,
+    "height": 433,
+    "power": 0.02,
+    "coverage": 4.5
+  },
+  {
+    "name": "Gellifendigaid",
+    "lat": 51.632596,
+    "lng": -3.3451002,
+    "height": 215,
+    "power": 0.0024,
+    "coverage": 2.2
+  },
+  {
+    "name": "Gilfach",
+    "lat": 51.590623,
+    "lng": -3.4708947,
+    "height": 314,
+    "power": 0.01,
+    "coverage": 3.6
+  },
+  {
+    "name": "Llanfach",
+    "lat": 51.646437,
+    "lng": -3.1326129,
+    "height": 145,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Llanfoist",
+    "lat": 51.823656,
+    "lng": -3.004434,
+    "height": 142,
+    "power": 0.0144,
+    "coverage": 4
+  },
+  {
+    "name": "Llangeinor",
+    "lat": 51.586128,
+    "lng": -3.5814624,
+    "height": 353,
+    "power": 0.038,
+    "coverage": 5.6
+  },
+  {
+    "name": "Llanharan",
+    "lat": 51.53878,
+    "lng": -3.4458628,
+    "height": 82,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Llanhilleth",
+    "lat": 51.696545,
+    "lng": -3.139362,
+    "height": 311,
+    "power": 0.01,
+    "coverage": 3.6
+  },
+  {
+    "name": "Llyswen",
+    "lat": 52.016772,
+    "lng": -3.2585227,
+    "height": 256,
+    "power": 0.006,
+    "coverage": 3
+  },
+  {
+    "name": "Machen Upper",
+    "lat": 51.601135,
+    "lng": -3.1402928,
+    "height": 179,
+    "power": 0.0072,
+    "coverage": 3.2
+  },
+  {
+    "name": "Maesteg",
+    "lat": 51.608496,
+    "lng": -3.6738008,
+    "height": 302,
+    "power": 0.05,
+    "coverage": 6.1
+  },
+  {
+    "name": "Merthyr Tydfil",
+    "lat": 51.749864,
+    "lng": -3.3671245,
+    "height": 313,
+    "power": 0.025,
+    "coverage": 4.8
+  },
+  {
+    "name": "Monmouth",
+    "lat": 51.811544,
+    "lng": -2.6886669,
+    "height": 217,
+    "power": 0.046,
+    "coverage": 5.9
+  },
+  {
+    "name": "Mynydd Bach",
+    "lat": 51.626229,
+    "lng": -3.2026097,
+    "height": 360,
+    "power": 0.05,
+    "coverage": 6.1
+  },
+  {
+    "name": "Mynydd Machen",
+    "lat": 51.604187,
+    "lng": -3.1221752,
+    "height": 411,
+    "power": 0.4,
+    "coverage": 12.2
+  },
+  {
+    "name": "Nant y Moel",
+    "lat": 51.63018,
+    "lng": -3.541527,
+    "height": 259,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Nantyglo",
+    "lat": 51.788347,
+    "lng": -3.1760357,
+    "height": 346,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Ogmore Vale",
+    "lat": 51.593514,
+    "lng": -3.5467816,
+    "height": 344,
+    "power": 0.02,
+    "coverage": 4.5
+  },
+  {
+    "name": "Pennar",
+    "lat": 51.656122,
+    "lng": -3.1445639,
+    "height": 276,
+    "power": 0.02,
+    "coverage": 4.5
+  },
+  {
+    "name": "Pennorth",
+    "lat": 51.931562,
+    "lng": -3.3055891,
+    "height": 293,
+    "power": 0.01,
+    "coverage": 3.6
+  },
+  {
+    "name": "Pontypridd",
+    "lat": 51.605687,
+    "lng": -3.3233659,
+    "height": 249,
+    "power": 0.4,
+    "coverage": 12.2
+  },
+  {
+    "name": "Porth",
+    "lat": 51.617797,
+    "lng": -3.4033066,
+    "height": 301,
+    "power": 0.0118,
+    "coverage": 3.8
+  },
+  {
+    "name": "Rhondda Fach",
+    "lat": 51.635749,
+    "lng": -3.4356511,
+    "height": 267,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Rhondda HP",
+    "lat": 51.634001,
+    "lng": -3.4607382,
+    "height": 353,
+    "power": 0.01,
+    "coverage": 3.6
+  },
+  {
+    "name": "Rhondda VP",
+    "lat": 51.634001,
+    "lng": -3.4607382,
+    "height": 362,
+    "power": 1,
+    "coverage": 16.6
+  },
+  {
+    "name": "Rhymney",
+    "lat": 51.730598,
+    "lng": -3.2648918,
+    "height": 450,
+    "power": 0.03,
+    "coverage": 5.2
+  },
+  {
+    "name": "Risca",
+    "lat": 51.609267,
+    "lng": -3.0984723,
+    "height": 83,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Sennybridge",
+    "lat": 51.953713,
+    "lng": -3.5815603,
+    "height": 399,
+    "power": 0.0128,
+    "coverage": 3.9
+  },
+  {
+    "name": "South Maesteg",
+    "lat": 51.594576,
+    "lng": -3.6471571,
+    "height": 151,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "South Tredegar",
+    "lat": 51.747021,
+    "lng": -3.2253709,
+    "height": 308,
+    "power": 0.0026,
+    "coverage": 2.3
+  },
+  {
+    "name": "Taffs Well",
+    "lat": 51.555703,
+    "lng": -3.26537,
+    "height": 186,
+    "power": 0.0104,
+    "coverage": 3.6
+  },
+  {
+    "name": "Ton Pentre",
+    "lat": 51.64946,
+    "lng": -3.5040208,
+    "height": 370,
+    "power": 0.032,
+    "coverage": 5.3
+  },
+  {
+    "name": "Tonypandy",
+    "lat": 51.622081,
+    "lng": -3.4648335,
+    "height": 258,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Tonyrefail",
+    "lat": 51.57727,
+    "lng": -3.4309208,
+    "height": 193,
+    "power": 0.004,
+    "coverage": 2.6
+  },
+  {
+    "name": "Trebanog",
+    "lat": 51.606414,
+    "lng": -3.4152302,
+    "height": 188,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Trecastle",
+    "lat": 51.93401,
+    "lng": -3.6220326,
+    "height": 338,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Trefechan",
+    "lat": 51.767031,
+    "lng": -3.4057571,
+    "height": 305,
+    "power": 0.01,
+    "coverage": 3.6
+  },
+  {
+    "name": "Treharris",
+    "lat": 51.659919,
+    "lng": -3.2981989,
+    "height": 208,
+    "power": 0.01,
+    "coverage": 3.6
+  },
+  {
+    "name": "Tynewydd",
+    "lat": 51.682533,
+    "lng": -3.5469211,
+    "height": 275,
+    "power": 0.004,
+    "coverage": 2.6
+  },
+  {
+    "name": "Upper Killay",
+    "lat": 51.615417,
+    "lng": -4.0379099,
+    "height": 102,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Van Terrace",
+    "lat": 51.570861,
+    "lng": -3.2005705,
+    "height": 121,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Wattsville",
+    "lat": 51.613327,
+    "lng": -3.1348213,
+    "height": 226,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Ynysowen",
+    "lat": 51.684748,
+    "lng": -3.3292869,
+    "height": 366,
+    "power": 0.016,
+    "coverage": 4.2
+  },
+  {
+    "name": "Mendip",
+    "lat": 51.236978,
+    "lng": -2.6254757,
+    "height": 591,
+    "power": 100,
+    "coverage": 77
+  },
+  {
+    "name": "Avening",
+    "lat": 51.676769,
+    "lng": -2.1734984,
+    "height": 190,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Backwell",
+    "lat": 51.441969,
+    "lng": -2.7230908,
+    "height": 125,
+    "power": 0.037,
+    "coverage": 5.5
+  },
+  {
+    "name": "Bath",
+    "lat": 51.387799,
+    "lng": -2.332925,
+    "height": 229,
+    "power": 0.05,
+    "coverage": 6.1
+  },
+  {
+    "name": "Blakeney",
+    "lat": 51.760583,
+    "lng": -2.4872168,
+    "height": 93,
+    "power": 0.0025,
+    "coverage": 2.3
+  },
+  {
+    "name": "Box",
+    "lat": 51.418683,
+    "lng": -2.2424078,
+    "height": 149,
+    "power": 0.004,
+    "coverage": 2.6
+  },
+  {
+    "name": "Bristol Barton House",
+    "lat": 51.453736,
+    "lng": -2.5612252,
+    "height": 67,
+    "power": 0.018,
+    "coverage": 4.3
+  },
+  {
+    "name": "Bristol Ilchester Crescent",
+    "lat": 51.427867,
+    "lng": -2.6098124,
+    "height": 97,
+    "power": 0.2,
+    "coverage": 9.7
+  },
+  {
+    "name": "Bristol Kings Weston",
+    "lat": 51.494708,
+    "lng": -2.6536302,
+    "height": 138,
+    "power": 0.2,
+    "coverage": 9.7
+  },
+  {
+    "name": "Bristol Montpelier",
+    "lat": 51.468695,
+    "lng": -2.5910655,
+    "height": 71,
+    "power": 0.01,
+    "coverage": 3.6
+  },
+  {
+    "name": "Bristol Warmley",
+    "lat": 51.460852,
+    "lng": -2.4988427,
+    "height": 104,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Bruton",
+    "lat": 51.105572,
+    "lng": -2.4575846,
+    "height": 111,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Burrington",
+    "lat": 51.341982,
+    "lng": -2.7513779,
+    "height": 64,
+    "power": 0.05,
+    "coverage": 6.1
+  },
+  {
+    "name": "Calne",
+    "lat": 51.428825,
+    "lng": -2.0054169,
+    "height": 136,
+    "power": 0.02,
+    "coverage": 4.5
+  },
+  {
+    "name": "Carhampton",
+    "lat": 51.174143,
+    "lng": -3.4089617,
+    "height": 86,
+    "power": 0.028,
+    "coverage": 5
+  },
+  {
+    "name": "Cerne Abbas",
+    "lat": 50.810156,
+    "lng": -2.5052178,
+    "height": 283,
+    "power": 0.08,
+    "coverage": 7.1
+  },
+  {
+    "name": "Chalford",
+    "lat": 51.714535,
+    "lng": -2.170893,
+    "height": 222,
+    "power": 0.025,
+    "coverage": 4.8
+  },
+  {
+    "name": "Chalford Vale",
+    "lat": 51.720296,
+    "lng": -2.1662824,
+    "height": 146,
+    "power": 0.003,
+    "coverage": 2.4
+  },
+  {
+    "name": "Chilfrome",
+    "lat": 50.790653,
+    "lng": -2.5979333,
+    "height": 190,
+    "power": 0.013,
+    "coverage": 3.9
+  },
+  {
+    "name": "Chiseldon",
+    "lat": 51.519683,
+    "lng": -1.7275576,
+    "height": 183,
+    "power": 0.016,
+    "coverage": 4.2
+  },
+  {
+    "name": "Chitterne",
+    "lat": 51.196568,
+    "lng": -2.0081075,
+    "height": 141,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Cirencester",
+    "lat": 51.750804,
+    "lng": -1.994448,
+    "height": 235,
+    "power": 0.1,
+    "coverage": 7.7
+  },
+  {
+    "name": "Clearwell",
+    "lat": 51.773184,
+    "lng": -2.6180806,
+    "height": 241,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Coleford",
+    "lat": 51.793196,
+    "lng": -2.625459,
+    "height": 220,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Corsham HP",
+    "lat": 51.427952,
+    "lng": -2.1898132,
+    "height": 102,
+    "power": 0.005,
+    "coverage": 2.8
+  },
+  {
+    "name": "Corsham VP",
+    "lat": 51.427952,
+    "lng": -2.1898132,
+    "height": 102,
+    "power": 0.008,
+    "coverage": 3.3
+  },
+  {
+    "name": "Countisbury",
+    "lat": 51.236134,
+    "lng": -3.7941868,
+    "height": 318,
+    "power": 0.084,
+    "coverage": 7.3
+  },
+  {
+    "name": "Crewkerne",
+    "lat": 50.879791,
+    "lng": -2.7908246,
+    "height": 99,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Crockerton",
+    "lat": 51.184834,
+    "lng": -2.1770792,
+    "height": 200,
+    "power": 0.0107,
+    "coverage": 3.7
+  },
+  {
+    "name": "Dursley",
+    "lat": 51.665795,
+    "lng": -2.3074886,
+    "height": 290,
+    "power": 0.011,
+    "coverage": 3.7
+  },
+  {
+    "name": "Easter Compton",
+    "lat": 51.544403,
+    "lng": -2.6259341,
+    "height": 23,
+    "power": 0.005,
+    "coverage": 2.8
+  },
+  {
+    "name": "Exford",
+    "lat": 51.128737,
+    "lng": -3.6491043,
+    "height": 347,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Frome",
+    "lat": 51.232282,
+    "lng": -2.3183375,
+    "height": 93,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Hutton",
+    "lat": 51.325236,
+    "lng": -2.918301,
+    "height": 110,
+    "power": 0.04,
+    "coverage": 5.7
+  },
+  {
+    "name": "Kewstoke",
+    "lat": 51.37057,
+    "lng": -2.9391765,
+    "height": 34,
+    "power": 0.016,
+    "coverage": 4.2
+  },
+  {
+    "name": "Kilve",
+    "lat": 51.175291,
+    "lng": -3.2273163,
+    "height": 118,
+    "power": 0.006,
+    "coverage": 3
+  },
+  {
+    "name": "Lydbrook",
+    "lat": 51.844221,
+    "lng": -2.5814571,
+    "height": 194,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Marlborough",
+    "lat": 51.417922,
+    "lng": -1.6999769,
+    "height": 243,
+    "power": 0.02,
+    "coverage": 4.5
+  },
+  {
+    "name": "Monksilver",
+    "lat": 51.117756,
+    "lng": -3.3086595,
+    "height": 269,
+    "power": 0.015,
+    "coverage": 4.1
+  },
+  {
+    "name": "Nailsworth",
+    "lat": 51.690268,
+    "lng": -2.2198428,
+    "height": 150,
+    "power": 0.0062,
+    "coverage": 3
+  },
+  {
+    "name": "Ogbourne St George",
+    "lat": 51.457048,
+    "lng": -1.705046,
+    "height": 222,
+    "power": 0.006,
+    "coverage": 3
+  },
+  {
+    "name": "Parkend",
+    "lat": 51.772681,
+    "lng": -2.5569133,
+    "height": 100,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Pillowell HP",
+    "lat": 51.756107,
+    "lng": -2.5442499,
+    "height": 93,
+    "power": 0.004,
+    "coverage": 2.6
+  },
+  {
+    "name": "Pillowell VP",
+    "lat": 51.756107,
+    "lng": -2.5442499,
+    "height": 92,
+    "power": 0.0004,
+    "coverage": 1.2
+  },
+  {
+    "name": "Porlock",
+    "lat": 51.204329,
+    "lng": -3.5999832,
+    "height": 196,
+    "power": 0.0125,
+    "coverage": 3.8
+  },
+  {
+    "name": "Portbury",
+    "lat": 51.472651,
+    "lng": -2.7198325,
+    "height": 40,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Portishead",
+    "lat": 51.48404,
+    "lng": -2.7807858,
+    "height": 110,
+    "power": 0.012,
+    "coverage": 3.8
+  },
+  {
+    "name": "Redbrook",
+    "lat": 51.780183,
+    "lng": -2.6699249,
+    "height": 140,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Redcliff Bay",
+    "lat": 51.472252,
+    "lng": -2.80866,
+    "height": 127,
+    "power": 0.01,
+    "coverage": 3.6
+  },
+  {
+    "name": "Roadwater",
+    "lat": 51.128469,
+    "lng": -3.3932798,
+    "height": 159,
+    "power": 0.006,
+    "coverage": 3
+  },
+  {
+    "name": "Seagry Court",
+    "lat": 51.591556,
+    "lng": -1.7863123,
+    "height": 154,
+    "power": 0.2,
+    "coverage": 9.7
+  },
+  {
+    "name": "Siston",
+    "lat": 51.468221,
+    "lng": -2.4781925,
+    "height": 85,
+    "power": 0.008,
+    "coverage": 3.3
+  },
+  {
+    "name": "Slad",
+    "lat": 51.748319,
+    "lng": -2.1859402,
+    "height": 238,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Stroud",
+    "lat": 51.768094,
+    "lng": -2.2386252,
+    "height": 271,
+    "power": 0.2,
+    "coverage": 9.7
+  },
+  {
+    "name": "Tintern",
+    "lat": 51.698814,
+    "lng": -2.669735,
+    "height": 131,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Ubley",
+    "lat": 51.332441,
+    "lng": -2.6636636,
+    "height": 168,
+    "power": 0.0158,
+    "coverage": 4.2
+  },
+  {
+    "name": "Upavon",
+    "lat": 51.265803,
+    "lng": -1.793271,
+    "height": 167,
+    "power": 0.056,
+    "coverage": 6.3
+  },
+  {
+    "name": "Washford",
+    "lat": 51.160378,
+    "lng": -3.348478,
+    "height": 85,
+    "power": 0.0124,
+    "coverage": 3.8
+  },
+  {
+    "name": "West Lavington",
+    "lat": 51.27201,
+    "lng": -2.0022439,
+    "height": 168,
+    "power": 0.0024,
+    "coverage": 2.2
+  },
+  {
+    "name": "Westwood",
+    "lat": 51.336812,
+    "lng": -2.2642255,
+    "height": 130,
+    "power": 0.035,
+    "coverage": 5.4
+  },
+  {
+    "name": "Woodcombe",
+    "lat": 51.20175,
+    "lng": -3.5028445,
+    "height": 95,
+    "power": 0.01,
+    "coverage": 3.6
+  },
+  {
+    "name": "Wootton Courtenay",
+    "lat": 51.172671,
+    "lng": -3.5262172,
+    "height": 178,
+    "power": 0.0224,
+    "coverage": 4.7
+  },
+  {
+    "name": "Wroughton",
+    "lat": 51.542077,
+    "lng": -1.7721244,
+    "height": 143,
+    "power": 0.05,
+    "coverage": 6.1
+  },
+  {
+    "name": "Beacon Hill",
+    "lat": 50.44641,
+    "lng": -3.6108964,
+    "height": 285,
+    "power": 20,
+    "coverage": 45
+  },
+  {
+    "name": "Ashburton",
+    "lat": 50.505521,
+    "lng": -3.7525228,
+    "height": 183,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Bovey Tracey",
+    "lat": 50.596483,
+    "lng": -3.6705558,
+    "height": 114,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Brixham",
+    "lat": 50.395933,
+    "lng": -3.5189966,
+    "height": 66,
+    "power": 0.0036,
+    "coverage": 2.5
+  },
+  {
+    "name": "Buckfastleigh",
+    "lat": 50.484419,
+    "lng": -3.7740142,
+    "height": 114,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Chudleigh",
+    "lat": 50.599605,
+    "lng": -3.5888501,
+    "height": 147,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Clennon Valley",
+    "lat": 50.426189,
+    "lng": -3.5703668,
+    "height": 73,
+    "power": 0.004,
+    "coverage": 2.6
+  },
+  {
+    "name": "Coombe",
+    "lat": 50.553027,
+    "lng": -3.5140183,
+    "height": 99,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Dartmouth",
+    "lat": 50.349042,
+    "lng": -3.5821571,
+    "height": 107,
+    "power": 0.004,
+    "coverage": 2.6
+  },
+  {
+    "name": "Edginswell",
+    "lat": 50.481577,
+    "lng": -3.5713565,
+    "height": 93,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Halwell",
+    "lat": 50.362911,
+    "lng": -3.7140812,
+    "height": 180,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Harbertonford",
+    "lat": 50.390491,
+    "lng": -3.7162012,
+    "height": 80,
+    "power": 0.004,
+    "coverage": 2.6
+  },
+  {
+    "name": "Hele",
+    "lat": 50.481618,
+    "lng": -3.5345691,
+    "height": 105,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Kingskerswell",
+    "lat": 50.503069,
+    "lng": -3.5913892,
+    "height": 91,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Liverton",
+    "lat": 50.548609,
+    "lng": -3.6787436,
+    "height": 172,
+    "power": 0.0025,
+    "coverage": 2.3
+  },
+  {
+    "name": "Newton Abbot HP",
+    "lat": 50.53016,
+    "lng": -3.6224957,
+    "height": 71,
+    "power": 0.0007,
+    "coverage": 1.5
+  },
+  {
+    "name": "Newton Abbot VP",
+    "lat": 50.53016,
+    "lng": -3.6224957,
+    "height": 71,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Occombe Valley",
+    "lat": 50.452106,
+    "lng": -3.5692528,
+    "height": 114,
+    "power": 0.02,
+    "coverage": 4.5
+  },
+  {
+    "name": "Sidmouth",
+    "lat": 50.684597,
+    "lng": -3.2233842,
+    "height": 130,
+    "power": 0.012,
+    "coverage": 3.8
+  },
+  {
+    "name": "South Brent HP",
+    "lat": 50.432398,
+    "lng": -3.8457123,
+    "height": 220,
+    "power": 0.0003,
+    "coverage": 1.1
+  },
+  {
+    "name": "South Brent VP",
+    "lat": 50.432398,
+    "lng": -3.8457123,
+    "height": 220,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Tedburn St Mary",
+    "lat": 50.735341,
+    "lng": -3.6580614,
+    "height": 169,
+    "power": 0.004,
+    "coverage": 2.6
+  },
+  {
+    "name": "Teignmouth",
+    "lat": 50.55183,
+    "lng": -3.5022635,
+    "height": 104,
+    "power": 0.069,
+    "coverage": 6.8
+  },
+  {
+    "name": "Torquay Town",
+    "lat": 50.46352,
+    "lng": -3.5293335,
+    "height": 106,
+    "power": 0.04,
+    "coverage": 5.7
+  },
+  {
+    "name": "Totnes",
+    "lat": 50.422808,
+    "lng": -3.6834413,
+    "height": 110,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Caradon Hill",
+    "lat": 50.51137,
+    "lng": -4.4368305,
+    "height": 602,
+    "power": 100,
+    "coverage": 77
+  },
+  {
+    "name": "Aveton Gifford",
+    "lat": 50.312418,
+    "lng": -3.8343194,
+    "height": 55,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Compton",
+    "lat": 50.38819,
+    "lng": -4.1176206,
+    "height": 70,
+    "power": 0.006,
+    "coverage": 3
+  },
+  {
+    "name": "Croyde",
+    "lat": 51.134092,
+    "lng": -4.2219025,
+    "height": 116,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Downderry",
+    "lat": 50.36347,
+    "lng": -4.3729977,
+    "height": 101,
+    "power": 0.06,
+    "coverage": 6.5
+  },
+  {
+    "name": "Fowey",
+    "lat": 50.327058,
+    "lng": -4.6352012,
+    "height": 71,
+    "power": 0.008,
+    "coverage": 3.3
+  },
+  {
+    "name": "Gunnislake",
+    "lat": 50.526826,
+    "lng": -4.2029781,
+    "height": 178,
+    "power": 0.0064,
+    "coverage": 3.1
+  },
+  {
+    "name": "Ivybridge",
+    "lat": 50.368672,
+    "lng": -3.9263458,
+    "height": 192,
+    "power": 0.08,
+    "coverage": 7.1
+  },
+  {
+    "name": "Kingsbridge",
+    "lat": 50.274447,
+    "lng": -3.7949667,
+    "height": 141,
+    "power": 0.034,
+    "coverage": 5.4
+  },
+  {
+    "name": "Looe",
+    "lat": 50.354768,
+    "lng": -4.4584642,
+    "height": 89,
+    "power": 0.02,
+    "coverage": 4.5
+  },
+  {
+    "name": "Lostwithiel",
+    "lat": 50.398743,
+    "lng": -4.6747802,
+    "height": 104,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Marystow",
+    "lat": 50.62441,
+    "lng": -4.212627,
+    "height": 135,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Mevagissey",
+    "lat": 50.267091,
+    "lng": -4.7917325,
+    "height": 94,
+    "power": 0.01,
+    "coverage": 3.6
+  },
+  {
+    "name": "Modbury",
+    "lat": 50.34724,
+    "lng": -3.8840132,
+    "height": 76,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Newton Ferrers",
+    "lat": 50.310075,
+    "lng": -4.0447639,
+    "height": 107,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "North Hessary Tor",
+    "lat": 50.550223,
+    "lng": -4.0084131,
+    "height": 578,
+    "power": 0.005,
+    "coverage": 2.8
+  },
+  {
+    "name": "Okehampton",
+    "lat": 50.753622,
+    "lng": -4.0056253,
+    "height": 255,
+    "power": 0.016,
+    "coverage": 4.2
+  },
+  {
+    "name": "Penaligon Down",
+    "lat": 50.481308,
+    "lng": -4.7824921,
+    "height": 161,
+    "power": 0.02,
+    "coverage": 4.5
+  },
+  {
+    "name": "Plymouth North Rd HP",
+    "lat": 50.376901,
+    "lng": -4.1446852,
+    "height": 66,
+    "power": 0.0001,
+    "coverage": 0.8
+  },
+  {
+    "name": "Plymouth North Rd VP",
+    "lat": 50.376901,
+    "lng": -4.1446852,
+    "height": 65,
+    "power": 0.0024,
+    "coverage": 2.2
+  },
+  {
+    "name": "Plymouth Weston Mill",
+    "lat": 50.396105,
+    "lng": -4.1760857,
+    "height": 32,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Polperro",
+    "lat": 50.329739,
+    "lng": -4.5225124,
+    "height": 140,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Port Isaac",
+    "lat": 50.589849,
+    "lng": -4.8284538,
+    "height": 86,
+    "power": 0.07,
+    "coverage": 6.8
+  },
+  {
+    "name": "Salcombe",
+    "lat": 50.244926,
+    "lng": -3.7491156,
+    "height": 99,
+    "power": 0.0034,
+    "coverage": 2.5
+  },
+  {
+    "name": "Slapton",
+    "lat": 50.263019,
+    "lng": -3.6623664,
+    "height": 150,
+    "power": 0.25,
+    "coverage": 10.4
+  },
+  {
+    "name": "Southway",
+    "lat": 50.419376,
+    "lng": -4.1435066,
+    "height": 120,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "St Neot",
+    "lat": 50.480163,
+    "lng": -4.5622331,
+    "height": 144,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Tavistock",
+    "lat": 50.5248,
+    "lng": -4.1379819,
+    "height": 215,
+    "power": 0.02,
+    "coverage": 4.5
+  },
+  {
+    "name": "Widecombe In The Moor",
+    "lat": 50.563778,
+    "lng": -3.8011387,
+    "height": 336,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Huntshaw Cross",
+    "lat": 50.979162,
+    "lng": -4.0988142,
+    "height": 359,
+    "power": 20,
+    "coverage": 45
+  },
+  {
+    "name": "Barnstaple",
+    "lat": 51.079391,
+    "lng": -4.0353894,
+    "height": 117,
+    "power": 0.008,
+    "coverage": 3.3
+  },
+  {
+    "name": "Berrynarbor",
+    "lat": 51.203005,
+    "lng": -4.0584431,
+    "height": 149,
+    "power": 0.004,
+    "coverage": 2.6
+  },
+  {
+    "name": "Braunton",
+    "lat": 51.111843,
+    "lng": -4.151684,
+    "height": 111,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Chambercombe",
+    "lat": 51.208164,
+    "lng": -4.1020536,
+    "height": 100,
+    "power": 0.01,
+    "coverage": 3.6
+  },
+  {
+    "name": "Combe Martin",
+    "lat": 51.197274,
+    "lng": -4.0312783,
+    "height": 192,
+    "power": 0.07,
+    "coverage": 6.8
+  },
+  {
+    "name": "Great Torrington",
+    "lat": 50.943703,
+    "lng": -4.1544434,
+    "height": 93,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Hartland",
+    "lat": 51.003395,
+    "lng": -4.4903303,
+    "height": 162,
+    "power": 0.06,
+    "coverage": 6.5
+  },
+  {
+    "name": "Ilfracombe",
+    "lat": 51.198066,
+    "lng": -4.1382373,
+    "height": 251,
+    "power": 0.112,
+    "coverage": 8
+  },
+  {
+    "name": "Muddiford",
+    "lat": 51.126347,
+    "lng": -4.0604629,
+    "height": 155,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "North Bovey",
+    "lat": 50.646543,
+    "lng": -3.7820949,
+    "height": 280,
+    "power": 0.014,
+    "coverage": 4
+  },
+  {
+    "name": "Swimbridge",
+    "lat": 51.048741,
+    "lng": -3.9661315,
+    "height": 185,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Westward Ho",
+    "lat": 51.03756,
+    "lng": -4.2282634,
+    "height": 126,
+    "power": 0.032,
+    "coverage": 5.3
+  },
+  {
+    "name": "Woolacombe",
+    "lat": 51.163976,
+    "lng": -4.1967342,
+    "height": 211,
+    "power": 0.004,
+    "coverage": 2.6
+  },
+  {
+    "name": "Plympton",
+    "lat": 50.381262,
+    "lng": -4.0677986,
+    "height": 163,
+    "power": 0.4,
+    "coverage": 12.2
+  },
+  {
+    "name": "Redruth",
+    "lat": 50.209791,
+    "lng": -5.2384898,
+    "height": 400,
+    "power": 20,
+    "coverage": 45
+  },
+  {
+    "name": "Alverton",
+    "lat": 50.114592,
+    "lng": -5.5584586,
+    "height": 71,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Boscastle",
+    "lat": 50.688429,
+    "lng": -4.695903,
+    "height": 125,
+    "power": 0.011,
+    "coverage": 3.7
+  },
+  {
+    "name": "Bossiney",
+    "lat": 50.668227,
+    "lng": -4.73678,
+    "height": 111,
+    "power": 0.04,
+    "coverage": 5.7
+  },
+  {
+    "name": "Gulval",
+    "lat": 50.130535,
+    "lng": -5.53431,
+    "height": 78,
+    "power": 0.0052,
+    "coverage": 2.9
+  },
+  {
+    "name": "Helston",
+    "lat": 50.101861,
+    "lng": -5.2856072,
+    "height": 108,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Isles Of Scilly",
+    "lat": 49.932508,
+    "lng": -6.3053944,
+    "height": 113,
+    "power": 0.1,
+    "coverage": 7.7
+  },
+  {
+    "name": "Penryn",
+    "lat": 50.159699,
+    "lng": -5.0995492,
+    "height": 107,
+    "power": 0.011,
+    "coverage": 3.7
+  },
+  {
+    "name": "Perranporth",
+    "lat": 50.336855,
+    "lng": -5.1519744,
+    "height": 93,
+    "power": 0.016,
+    "coverage": 4.2
+  },
+  {
+    "name": "Porthleven",
+    "lat": 50.084159,
+    "lng": -5.319629,
+    "height": 60,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Porthtowan",
+    "lat": 50.285757,
+    "lng": -5.2370489,
+    "height": 78,
+    "power": 0.016,
+    "coverage": 4.2
+  },
+  {
+    "name": "Portreath",
+    "lat": 50.262931,
+    "lng": -5.287425,
+    "height": 77,
+    "power": 0.02,
+    "coverage": 4.5
+  },
+  {
+    "name": "Praa Sands",
+    "lat": 50.105941,
+    "lng": -5.396951,
+    "height": 98,
+    "power": 0.025,
+    "coverage": 4.8
+  },
+  {
+    "name": "St Anthony",
+    "lat": 50.147268,
+    "lng": -5.0078891,
+    "height": 70,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "St Austell",
+    "lat": 50.348179,
+    "lng": -4.8012676,
+    "height": 240,
+    "power": 0.25,
+    "coverage": 10.4
+  },
+  {
+    "name": "St Just",
+    "lat": 50.140532,
+    "lng": -5.6643962,
+    "height": 247,
+    "power": 0.25,
+    "coverage": 10.4
+  },
+  {
+    "name": "Truro",
+    "lat": 50.258042,
+    "lng": -5.0375969,
+    "height": 87,
+    "power": 0.009,
+    "coverage": 3.4
+  },
+  {
+    "name": "Stockland Hill",
+    "lat": 50.807095,
+    "lng": -3.1049512,
+    "height": 463,
+    "power": 50,
+    "coverage": 61.1
+  },
+  {
+    "name": "Bampton",
+    "lat": 51.003292,
+    "lng": -3.4737591,
+    "height": 268,
+    "power": 0.006,
+    "coverage": 3
+  },
+  {
+    "name": "Beaminster",
+    "lat": 50.819703,
+    "lng": -2.724223,
+    "height": 200,
+    "power": 0.015,
+    "coverage": 4.1
+  },
+  {
+    "name": "Beer",
+    "lat": 50.701555,
+    "lng": -3.091423,
+    "height": 123,
+    "power": 0.0048,
+    "coverage": 2.8
+  },
+  {
+    "name": "Bincombe Hill",
+    "lat": 50.662746,
+    "lng": -2.4436438,
+    "height": 170,
+    "power": 0.0128,
+    "coverage": 3.9
+  },
+  {
+    "name": "Branscombe",
+    "lat": 50.687958,
+    "lng": -3.1402307,
+    "height": 127,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Bridport",
+    "lat": 50.720811,
+    "lng": -2.7756786,
+    "height": 107,
+    "power": 0.034,
+    "coverage": 5.4
+  },
+  {
+    "name": "Brushford",
+    "lat": 51.025558,
+    "lng": -3.5393466,
+    "height": 241,
+    "power": 0.0032,
+    "coverage": 2.4
+  },
+  {
+    "name": "Budleigh Salterton",
+    "lat": 50.635125,
+    "lng": -3.3543161,
+    "height": 122,
+    "power": 1,
+    "coverage": 16.6
+  },
+  {
+    "name": "Chagford",
+    "lat": 50.686484,
+    "lng": -3.8563751,
+    "height": 280,
+    "power": 0.0024,
+    "coverage": 2.2
+  },
+  {
+    "name": "Charmouth",
+    "lat": 50.73664,
+    "lng": -2.8888829,
+    "height": 74,
+    "power": 0.1,
+    "coverage": 7.7
+  },
+  {
+    "name": "Chideock HP",
+    "lat": 50.736419,
+    "lng": -2.833612,
+    "height": 146,
+    "power": 0.0022,
+    "coverage": 2.2
+  },
+  {
+    "name": "Chideock VP",
+    "lat": 50.736419,
+    "lng": -2.833612,
+    "height": 146,
+    "power": 0.02,
+    "coverage": 4.5
+  },
+  {
+    "name": "Crediton",
+    "lat": 50.795717,
+    "lng": -3.6685695,
+    "height": 158,
+    "power": 0.007,
+    "coverage": 3.2
+  },
+  {
+    "name": "Culm Valley",
+    "lat": 50.926552,
+    "lng": -3.269705,
+    "height": 221,
+    "power": 0.0116,
+    "coverage": 3.8
+  },
+  {
+    "name": "Dawlish",
+    "lat": 50.585801,
+    "lng": -3.4831439,
+    "height": 139,
+    "power": 0.02,
+    "coverage": 4.5
+  },
+  {
+    "name": "Dunsford",
+    "lat": 50.680018,
+    "lng": -3.684137,
+    "height": 187,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Exeter St Thomas",
+    "lat": 50.719131,
+    "lng": -3.5620067,
+    "height": 150,
+    "power": 0.05,
+    "coverage": 6.1
+  },
+  {
+    "name": "Honiton",
+    "lat": 50.790817,
+    "lng": -3.1874231,
+    "height": 165,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Pennsylvania",
+    "lat": 50.743721,
+    "lng": -3.511374,
+    "height": 131,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Preston",
+    "lat": 50.64864,
+    "lng": -2.415788,
+    "height": 57,
+    "power": 0.02,
+    "coverage": 4.5
+  },
+  {
+    "name": "Rampisham UHF",
+    "lat": 50.804951,
+    "lng": -2.6484958,
+    "height": 240,
+    "power": 0.0024,
+    "coverage": 2.2
+  },
+  {
+    "name": "Stokeinteignhead",
+    "lat": 50.52976,
+    "lng": -3.539376,
+    "height": 92,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Tiverton",
+    "lat": 50.903191,
+    "lng": -3.5097064,
+    "height": 190,
+    "power": 0.018,
+    "coverage": 4.3
+  },
+  {
+    "name": "Weymouth",
+    "lat": 50.598943,
+    "lng": -2.4775191,
+    "height": 112,
+    "power": 0.4,
+    "coverage": 12.2
+  },
+  {
+    "name": "Belmont",
+    "lat": 53.335741,
+    "lng": -0.17198597,
+    "height": 464,
+    "power": 150,
+    "coverage": 88.1
+  },
+  {
+    "name": "Grimsby",
+    "lat": 53.56238,
+    "lng": -0.069364465,
+    "height": 22,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Lincoln Central",
+    "lat": 53.227836,
+    "lng": -0.52729354,
+    "height": 51,
+    "power": 0.004,
+    "coverage": 2.6
+  },
+  {
+    "name": "Weaverthorpe",
+    "lat": 54.131422,
+    "lng": -0.51349095,
+    "height": 164,
+    "power": 0.009,
+    "coverage": 3.4
+  },
+  {
+    "name": "Chesterfield",
+    "lat": 53.284007,
+    "lng": -1.427446,
+    "height": 230,
+    "power": 0.8,
+    "coverage": 15.4
+  },
+  {
+    "name": "Brockwell",
+    "lat": 53.232752,
+    "lng": -1.4425118,
+    "height": 120,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Dronfield",
+    "lat": 53.308413,
+    "lng": -1.4565349,
+    "height": 189,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Hasland",
+    "lat": 53.223516,
+    "lng": -1.3920058,
+    "height": 138,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Emley Moor",
+    "lat": 53.612002,
+    "lng": -1.66456,
+    "height": 566,
+    "power": 174,
+    "coverage": 92.6
+  },
+  {
+    "name": "Addingham",
+    "lat": 53.938951,
+    "lng": -1.8858693,
+    "height": 187,
+    "power": 0.0046,
+    "coverage": 2.8
+  },
+  {
+    "name": "Armitage Bridge",
+    "lat": 53.616441,
+    "lng": -1.8008768,
+    "height": 165,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Batley",
+    "lat": 53.720145,
+    "lng": -1.638697,
+    "height": 106,
+    "power": 0.0025,
+    "coverage": 2.3
+  },
+  {
+    "name": "Beecroft Hill",
+    "lat": 53.811561,
+    "lng": -1.641253,
+    "height": 197,
+    "power": 0.2,
+    "coverage": 9.7
+  },
+  {
+    "name": "Blackburn In Rotherham",
+    "lat": 53.428761,
+    "lng": -1.416022,
+    "height": 66,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Bradford West",
+    "lat": 53.807255,
+    "lng": -1.7989119,
+    "height": 229,
+    "power": 0.0025,
+    "coverage": 2.3
+  },
+  {
+    "name": "Calver Peak",
+    "lat": 53.265193,
+    "lng": -1.653635,
+    "height": 322,
+    "power": 0.05,
+    "coverage": 6.1
+  },
+  {
+    "name": "Cleckheaton",
+    "lat": 53.716682,
+    "lng": -1.7222172,
+    "height": 160,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Conisbrough",
+    "lat": 53.476386,
+    "lng": -1.2238663,
+    "height": 87,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Cop Hill",
+    "lat": 53.620979,
+    "lng": -1.913486,
+    "height": 360,
+    "power": 0.2,
+    "coverage": 9.7
+  },
+  {
+    "name": "Copley",
+    "lat": 53.697527,
+    "lng": -1.8777374,
+    "height": 128,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Cornholme",
+    "lat": 53.734464,
+    "lng": -2.1257814,
+    "height": 357,
+    "power": 0.0084,
+    "coverage": 3.4
+  },
+  {
+    "name": "Cragg Vale",
+    "lat": 53.703252,
+    "lng": -1.996933,
+    "height": 309,
+    "power": 0.005,
+    "coverage": 2.8
+  },
+  {
+    "name": "Cullingworth",
+    "lat": 53.839367,
+    "lng": -1.8865956,
+    "height": 247,
+    "power": 0.0026,
+    "coverage": 2.3
+  },
+  {
+    "name": "Edale",
+    "lat": 53.355973,
+    "lng": -1.811256,
+    "height": 342,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Elland",
+    "lat": 53.687103,
+    "lng": -1.8102348,
+    "height": 179,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Grassington",
+    "lat": 54.071211,
+    "lng": -1.9779595,
+    "height": 330,
+    "power": 0.012,
+    "coverage": 3.8
+  },
+  {
+    "name": "Hagg Wood",
+    "lat": 53.59141,
+    "lng": -1.7763688,
+    "height": 198,
+    "power": 0.0066,
+    "coverage": 3.1
+  },
+  {
+    "name": "Halifax",
+    "lat": 53.713849,
+    "lng": -1.8461751,
+    "height": 284,
+    "power": 0.1,
+    "coverage": 7.7
+  },
+  {
+    "name": "Headingley",
+    "lat": 53.820588,
+    "lng": -1.54639,
+    "height": 125,
+    "power": 0.0024,
+    "coverage": 2.2
+  },
+  {
+    "name": "Hebden Bridge",
+    "lat": 53.737315,
+    "lng": -2.0184578,
+    "height": 268,
+    "power": 0.05,
+    "coverage": 6.1
+  },
+  {
+    "name": "Heyshaw",
+    "lat": 54.063834,
+    "lng": -1.7406869,
+    "height": 336,
+    "power": 0.1,
+    "coverage": 7.7
+  },
+  {
+    "name": "Holmfield",
+    "lat": 53.76169,
+    "lng": -1.8664784,
+    "height": 316,
+    "power": 0.0044,
+    "coverage": 2.7
+  },
+  {
+    "name": "Holmfirth",
+    "lat": 53.574356,
+    "lng": -1.7894461,
+    "height": 223,
+    "power": 0.0052,
+    "coverage": 2.9
+  },
+  {
+    "name": "Hope",
+    "lat": 53.343538,
+    "lng": -1.7464249,
+    "height": 242,
+    "power": 0.0024,
+    "coverage": 2.2
+  },
+  {
+    "name": "Kettlewell",
+    "lat": 54.10824,
+    "lng": -2.0203069,
+    "height": 323,
+    "power": 0.026,
+    "coverage": 4.9
+  },
+  {
+    "name": "Longwood Edge",
+    "lat": 53.641654,
+    "lng": -1.8311606,
+    "height": 134,
+    "power": 0.008,
+    "coverage": 3.3
+  },
+  {
+    "name": "Luddenden",
+    "lat": 53.720128,
+    "lng": -1.9287401,
+    "height": 295,
+    "power": 0.0118,
+    "coverage": 3.8
+  },
+  {
+    "name": "Lydgate",
+    "lat": 53.724598,
+    "lng": -2.1039282,
+    "height": 214,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Millhouse Green",
+    "lat": 53.521373,
+    "lng": -1.6551703,
+    "height": 300,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Oughtibridge",
+    "lat": 53.453115,
+    "lng": -1.5382658,
+    "height": 292,
+    "power": 0.0078,
+    "coverage": 3.3
+  },
+  {
+    "name": "Primrose Hill",
+    "lat": 53.632054,
+    "lng": -1.78553,
+    "height": 197,
+    "power": 0.0056,
+    "coverage": 2.9
+  },
+  {
+    "name": "Ripponden",
+    "lat": 53.666204,
+    "lng": -1.9360953,
+    "height": 336,
+    "power": 0.012,
+    "coverage": 3.8
+  },
+  {
+    "name": "Shatton Edge",
+    "lat": 53.328713,
+    "lng": -1.7098768,
+    "height": 415,
+    "power": 0.2,
+    "coverage": 9.7
+  },
+  {
+    "name": "Stocksbridge",
+    "lat": 53.488437,
+    "lng": -1.5865623,
+    "height": 320,
+    "power": 0.0024,
+    "coverage": 2.2
+  },
+  {
+    "name": "Tideswell Moor",
+    "lat": 53.299104,
+    "lng": -1.7763964,
+    "height": 447,
+    "power": 0.05,
+    "coverage": 6.1
+  },
+  {
+    "name": "Todmorden",
+    "lat": 53.7133,
+    "lng": -2.0654161,
+    "height": 271,
+    "power": 0.1,
+    "coverage": 7.7
+  },
+  {
+    "name": "Walsden",
+    "lat": 53.707694,
+    "lng": -2.1113096,
+    "height": 290,
+    "power": 0.01,
+    "coverage": 3.6
+  },
+  {
+    "name": "Walsden South",
+    "lat": 53.690629,
+    "lng": -2.0965756,
+    "height": 247,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Wharfedale",
+    "lat": 53.93225,
+    "lng": -1.6999232,
+    "height": 262,
+    "power": 0.4,
+    "coverage": 12.2
+  },
+  {
+    "name": "Wheatley",
+    "lat": 53.734847,
+    "lng": -1.8983973,
+    "height": 212,
+    "power": 0.0032,
+    "coverage": 2.4
+  },
+  {
+    "name": "Wincobank",
+    "lat": 53.422653,
+    "lng": -1.4170085,
+    "height": 69,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Idle",
+    "lat": 53.832873,
+    "lng": -1.7521425,
+    "height": 260,
+    "power": 0.05,
+    "coverage": 6.1
+  },
+  {
+    "name": "Keighley",
+    "lat": 53.89555,
+    "lng": -1.8966393,
+    "height": 356,
+    "power": 2,
+    "coverage": 20.9
+  },
+  {
+    "name": "Cowling",
+    "lat": 53.885698,
+    "lng": -2.0469733,
+    "height": 220,
+    "power": 0.0026,
+    "coverage": 2.3
+  },
+  {
+    "name": "Keighley Town",
+    "lat": 53.861491,
+    "lng": -1.9026529,
+    "height": 180,
+    "power": 0.002,
+    "coverage": 2.1
+  },
+  {
+    "name": "Oxenhope",
+    "lat": 53.800585,
+    "lng": -1.9586661,
+    "height": 402,
+    "power": 0.04,
+    "coverage": 5.7
+  },
+  {
+    "name": "Skipton",
+    "lat": 53.961212,
+    "lng": -2.1406386,
+    "height": 212,
+    "power": 2,
+    "coverage": 20.9
+  },
+  {
+    "name": "Skipton Town",
+    "lat": 53.954823,
+    "lng": -2.0042307,
+    "height": 191,
+    "power": 0.0026,
+    "coverage": 2.3
+  },
+  {
+    "name": "Sutton In Craven",
+    "lat": 53.882202,
+    "lng": -1.9946392,
+    "height": 284,
+    "power": 0.0024,
+    "coverage": 2.2
+  },
+  {
+    "name": "Olivers Mount",
+    "lat": 54.267281,
+    "lng": -0.40449675,
+    "height": 193,
+    "power": 2,
+    "coverage": 20.9
+  },
+  {
+    "name": "Hunmanby",
+    "lat": 54.185886,
+    "lng": -0.32793995,
+    "height": 127,
+    "power": 0.025,
+    "coverage": 4.8
+  },
+  {
+    "name": "Sheffield",
+    "lat": 53.379402,
+    "lng": -1.5138083,
+    "height": 290,
+    "power": 1,
+    "coverage": 16.6
+  },
+  {
+    "name": "Totley Rise",
+    "lat": 53.322251,
+    "lng": -1.5180608,
+    "height": 177,
+    "power": 0.016,
+    "coverage": 4.2
+  }
+]
